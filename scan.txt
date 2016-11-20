@@ -1,0 +1,5232 @@
+
+Starting Nmap 6.00 ( http://nmap.org ) at 2014-11-26 18:22 HKT
+Nmap scan report for 10.103.20.0
+Host is up.
+All 1000 scanned ports on 10.103.20.0 are filtered
+
+Nmap scan report for 10.103.20.1
+Host is up (0.0015s latency).
+Not shown: 996 closed ports
+PORT      STATE    SERVICE
+23/tcp    open     telnet
+50300/tcp filtered unknown
+50389/tcp filtered unknown
+50500/tcp filtered unknown
+
+Nmap scan report for 10.103.20.2
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.2 are filtered
+
+Nmap scan report for 10.103.20.3
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.3 are filtered
+
+Nmap scan report for 10.103.20.4
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.20.4 are filtered
+
+Nmap scan report for 10.103.20.5
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.5 are filtered
+
+Nmap scan report for 10.103.20.6
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.6 are filtered
+
+Nmap scan report for 10.103.20.7
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.20.7 are filtered
+
+Nmap scan report for 10.103.20.8
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.20.8 are filtered
+
+Nmap scan report for 10.103.20.9
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.9 are filtered
+
+Nmap scan report for 10.103.20.10
+Host is up (2.2s latency).
+All 1000 scanned ports on 10.103.20.10 are filtered
+
+Nmap scan report for 10.103.20.11
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.11 are filtered
+
+Nmap scan report for 10.103.20.12
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.20.12 are filtered
+
+Nmap scan report for 10.103.20.13
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.13 are filtered
+
+Nmap scan report for 10.103.20.14
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.14 are filtered
+
+Nmap scan report for 10.103.20.15
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.20.15 are filtered
+
+Nmap scan report for 10.103.20.16
+Host is up (0.014s latency).
+All 1000 scanned ports on 10.103.20.16 are filtered
+
+Nmap scan report for 10.103.20.17
+Host is up (0.0021s latency).
+All 1000 scanned ports on 10.103.20.17 are filtered
+
+Nmap scan report for 10.103.20.18
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.18 are filtered
+
+Nmap scan report for 10.103.20.19
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.19 are filtered
+
+Nmap scan report for 10.103.20.20
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.20 are filtered
+
+Nmap scan report for 10.103.20.21
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.20.21 are filtered
+
+Nmap scan report for 10.103.20.22
+Host is up (2.1s latency).
+All 1000 scanned ports on 10.103.20.22 are filtered
+
+Nmap scan report for 10.103.20.23
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.20.23 are filtered
+
+Nmap scan report for 10.103.20.24
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.24 are filtered
+
+Nmap scan report for 10.103.20.25
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.20.25 are filtered
+
+Nmap scan report for 10.103.20.26
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.20.26 are filtered
+
+Nmap scan report for 10.103.20.27
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.20.27 are filtered
+
+Nmap scan report for 10.103.20.28
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.28 are filtered
+
+Nmap scan report for 10.103.20.29
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.20.29 are filtered
+
+Nmap scan report for 10.103.20.30
+Host is up (2.2s latency).
+All 1000 scanned ports on 10.103.20.30 are filtered
+
+Nmap scan report for 10.103.20.31
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.20.31 are filtered
+
+Nmap scan report for 10.103.20.32
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.20.32 are filtered
+
+Nmap scan report for 10.103.20.33
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.33 are filtered
+
+Nmap scan report for 10.103.20.34
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.34 are filtered
+
+Nmap scan report for 10.103.20.35
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.35 are filtered
+
+Nmap scan report for 10.103.20.36
+Host is up (2.2s latency).
+All 1000 scanned ports on 10.103.20.36 are filtered
+
+Nmap scan report for 10.103.20.37
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.20.37 are filtered
+
+Nmap scan report for 10.103.20.38
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.20.38 are filtered
+
+Nmap scan report for 10.103.20.39
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.20.39 are filtered
+
+Nmap scan report for 10.103.20.40
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.40 are filtered
+
+Nmap scan report for 10.103.20.41
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.20.41 are filtered
+
+Nmap scan report for 10.103.20.42
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.42 are filtered
+
+Nmap scan report for 10.103.20.43
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.20.43 are filtered
+
+Nmap scan report for 10.103.20.44
+Host is up (2.1s latency).
+All 1000 scanned ports on 10.103.20.44 are filtered
+
+Nmap scan report for 10.103.20.45
+Host is up (0.0037s latency).
+All 1000 scanned ports on 10.103.20.45 are filtered
+
+Nmap scan report for 10.103.20.46
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.20.46 are filtered
+
+Nmap scan report for 10.103.20.47
+Host is up (0.00038s latency).
+Not shown: 984 closed ports
+PORT      STATE    SERVICE
+21/tcp    open     ftp
+22/tcp    open     ssh
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+443/tcp   open     https
+445/tcp   open     microsoft-ds
+843/tcp   filtered unknown
+903/tcp   open     iss-console-mgr
+1723/tcp  open     pptp
+2869/tcp  open     icslap
+3389/tcp  open     ms-wbt-server
+6001/tcp  open     X11:1
+49152/tcp open     unknown
+49153/tcp open     unknown
+49154/tcp open     unknown
+49155/tcp open     unknown
+
+Nmap scan report for 10.103.20.48
+Host is up (1.8s latency).
+All 1000 scanned ports on 10.103.20.48 are filtered
+
+Nmap scan report for 10.103.20.49
+Host is up (0.00054s latency).
+Not shown: 997 filtered ports
+PORT     STATE SERVICE
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1060/tcp open  polestar
+
+Nmap scan report for 10.103.20.50
+Host is up (2.1s latency).
+All 1000 scanned ports on 10.103.20.50 are filtered
+
+Nmap scan report for 10.103.20.51
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.51 are filtered
+
+Nmap scan report for 10.103.20.52
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.20.52 are filtered
+
+Nmap scan report for 10.103.20.53
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.20.53 are filtered
+
+Nmap scan report for 10.103.20.54
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.20.54 are filtered
+
+Nmap scan report for 10.103.20.55
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.55 are filtered
+
+Nmap scan report for 10.103.20.56
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.56 are filtered
+
+Nmap scan report for 10.103.20.57
+Host is up (0.98s latency).
+All 1000 scanned ports on 10.103.20.57 are filtered
+
+Nmap scan report for 10.103.20.58
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.58 are filtered
+
+Nmap scan report for 10.103.20.59
+Host is up (0.012s latency).
+All 1000 scanned ports on 10.103.20.59 are filtered
+
+Nmap scan report for 10.103.20.60
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.60 are filtered
+
+Nmap scan report for 10.103.20.61
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.20.61 are filtered
+
+Nmap scan report for 10.103.20.62
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.62 are filtered
+
+Nmap scan report for 10.103.20.63
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.20.63 are filtered
+
+Warning: 10.103.20.127 giving up on port because retransmission cap hit (10).
+Nmap scan report for 10.103.20.64
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.20.64 are filtered
+
+Nmap scan report for 10.103.20.65
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.20.65 are filtered
+
+Nmap scan report for 10.103.20.66
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.66 are filtered
+
+Nmap scan report for 10.103.20.67
+Host is up (2.0s latency).
+All 1000 scanned ports on 10.103.20.67 are filtered
+
+Nmap scan report for 10.103.20.68
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.20.68 are filtered
+
+Nmap scan report for 10.103.20.69
+Host is up (2.2s latency).
+All 1000 scanned ports on 10.103.20.69 are filtered
+
+Nmap scan report for 10.103.20.70
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.20.70 are filtered
+
+Nmap scan report for 10.103.20.71
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.20.71 are filtered
+
+Nmap scan report for 10.103.20.72
+Host is up (2.1s latency).
+All 1000 scanned ports on 10.103.20.72 are filtered
+
+Nmap scan report for 10.103.20.73
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.73 are filtered
+
+Nmap scan report for 10.103.20.74
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.20.74 are filtered
+
+Nmap scan report for 10.103.20.75
+Host is up (0.00056s latency).
+Not shown: 998 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+
+Nmap scan report for 10.103.20.76
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.20.76 are filtered
+
+Nmap scan report for 10.103.20.77
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.20.77 are filtered
+
+Nmap scan report for 10.103.20.78
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.78 are filtered
+
+Nmap scan report for 10.103.20.79
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.79 are filtered
+
+Nmap scan report for 10.103.20.80
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.80 are filtered
+
+Nmap scan report for 10.103.20.81
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.81 are filtered
+
+Nmap scan report for 10.103.20.82
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.82 are filtered
+
+Nmap scan report for 10.103.20.83
+Host is up (1.8s latency).
+All 1000 scanned ports on 10.103.20.83 are filtered
+
+Nmap scan report for 10.103.20.84
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.84 are filtered
+
+Nmap scan report for 10.103.20.85
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.85 are filtered
+
+Nmap scan report for 10.103.20.86
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.86 are filtered
+
+Nmap scan report for 10.103.20.87
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.87 are filtered
+
+Nmap scan report for 10.103.20.88
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.88 are filtered
+
+Nmap scan report for 10.103.20.89
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.89 are filtered
+
+Nmap scan report for 10.103.20.90
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.90 are filtered
+
+Nmap scan report for 10.103.20.91
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.91 are filtered
+
+Nmap scan report for 10.103.20.92
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.92 are filtered
+
+Nmap scan report for 10.103.20.93
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.93 are filtered
+
+Nmap scan report for 10.103.20.94
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.20.94 are filtered
+
+Nmap scan report for 10.103.20.95
+Host is up (1.8s latency).
+All 1000 scanned ports on 10.103.20.95 are filtered
+
+Nmap scan report for 10.103.20.96
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.96 are filtered
+
+Nmap scan report for 10.103.20.97
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.97 are filtered
+
+Nmap scan report for 10.103.20.98
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.98 are filtered
+
+Nmap scan report for 10.103.20.99
+Host is up (0.0011s latency).
+Not shown: 995 filtered ports
+PORT      STATE SERVICE
+1029/tcp  open  ms-lsa
+1048/tcp  open  neod2
+1947/tcp  open  sentinelsrm
+3580/tcp  open  nati-svrloc
+27000/tcp open  flexlm0
+
+Nmap scan report for 10.103.20.100
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.100 are filtered
+
+Nmap scan report for 10.103.20.101
+Host is up (2.0s latency).
+All 1000 scanned ports on 10.103.20.101 are filtered
+
+Nmap scan report for 10.103.20.102
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.102 are filtered
+
+Nmap scan report for 10.103.20.103
+Host is up (0.0015s latency).
+Not shown: 997 filtered ports
+PORT      STATE SERVICE
+2869/tcp  open  icslap
+8000/tcp  open  http-alt
+10243/tcp open  unknown
+
+Nmap scan report for 10.103.20.104
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.104 are filtered
+
+Nmap scan report for 10.103.20.105
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.20.105 are filtered
+
+Nmap scan report for 10.103.20.106
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.106 are filtered
+
+Nmap scan report for 10.103.20.107
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.107 are filtered
+
+Nmap scan report for 10.103.20.108
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.108 are filtered
+
+Nmap scan report for 10.103.20.109
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.20.109 are filtered
+
+Nmap scan report for 10.103.20.110
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.20.110 are filtered
+
+Nmap scan report for 10.103.20.111
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.111 are filtered
+
+Nmap scan report for 10.103.20.112
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.112 are filtered
+
+Nmap scan report for 10.103.20.113
+Host is up (0.00025s latency).
+Not shown: 822 closed ports, 177 filtered ports
+PORT     STATE SERVICE
+1900/tcp open  upnp
+
+Nmap scan report for 10.103.20.114
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.114 are filtered
+
+Nmap scan report for 10.103.20.115
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.115 are filtered
+
+Nmap scan report for 10.103.20.116
+Host is up (0.00060s latency).
+Not shown: 983 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1025/tcp open  NFS-or-IIS
+1026/tcp open  LSA-or-nterm
+1027/tcp open  IIS
+1028/tcp open  unknown
+1032/tcp open  iad3
+1033/tcp open  netinfo
+1433/tcp open  ms-sql-s
+2383/tcp open  ms-olap4
+2869/tcp open  icslap
+3389/tcp open  ms-wbt-server
+3690/tcp open  svn
+6000/tcp open  X11
+8443/tcp open  https-alt
+
+Nmap scan report for 10.103.20.117
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.117 are filtered
+
+Nmap scan report for 10.103.20.118
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.118 are filtered
+
+Nmap scan report for 10.103.20.119
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.119 are filtered
+
+Nmap scan report for 10.103.20.120
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.120 are filtered
+
+Nmap scan report for 10.103.20.121
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.121 are filtered
+
+Nmap scan report for 10.103.20.122
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.122 are filtered
+
+Nmap scan report for 10.103.20.123
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.20.123 are filtered
+
+Nmap scan report for 10.103.20.124
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.124 are filtered
+
+Nmap scan report for 10.103.20.125
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.125 are filtered
+
+Nmap scan report for 10.103.20.126
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.126 are filtered
+
+Nmap scan report for 10.103.20.127
+Host is up (0.00028s latency).
+Not shown: 980 closed ports
+PORT      STATE    SERVICE
+22/tcp    open     ssh
+80/tcp    open     http
+617/tcp   filtered sco-dtmgr
+1138/tcp  filtered encrypted_admin
+1174/tcp  filtered fnet-remote-ui
+1503/tcp  filtered imtc-mcs
+2010/tcp  filtered search
+2383/tcp  filtered ms-olap4
+3260/tcp  open     iscsi
+3389/tcp  open     ms-wbt-server
+6646/tcp  filtered unknown
+8080/tcp  open     http-proxy
+8651/tcp  filtered unknown
+9593/tcp  filtered cba8
+9618/tcp  filtered condor
+10243/tcp filtered unknown
+16012/tcp filtered unknown
+19801/tcp filtered unknown
+27352/tcp filtered unknown
+32778/tcp filtered sometimes-rpc19
+
+Nmap scan report for 10.103.20.128
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.128 are filtered
+
+Nmap scan report for 10.103.20.129
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.129 are filtered
+
+Nmap scan report for 10.103.20.130
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.130 are filtered
+
+Nmap scan report for 10.103.20.131
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.131 are filtered
+
+Nmap scan report for 10.103.20.132
+Host is up (0.000075s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+443/tcp open  https
+902/tcp open  iss-realsecure
+
+Nmap scan report for 10.103.20.133
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.133 are filtered
+
+Nmap scan report for 10.103.20.134
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.20.134 are filtered
+
+Nmap scan report for 10.103.20.135
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.135 are filtered
+
+Nmap scan report for 10.103.20.136
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.136 are filtered
+
+Nmap scan report for 10.103.20.137
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.137 are filtered
+
+Nmap scan report for 10.103.20.138
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.138 are filtered
+
+Nmap scan report for 10.103.20.139
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.20.139 are filtered
+
+Nmap scan report for 10.103.20.140
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.140 are filtered
+
+Nmap scan report for 10.103.20.141
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.141 are filtered
+
+Nmap scan report for 10.103.20.142
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.142 are filtered
+
+Nmap scan report for 10.103.20.143
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.143 are filtered
+
+Nmap scan report for 10.103.20.144
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.144 are filtered
+
+Nmap scan report for 10.103.20.145
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.145 are filtered
+
+Nmap scan report for 10.103.20.146
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.146 are filtered
+
+Nmap scan report for 10.103.20.147
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.147 are filtered
+
+Nmap scan report for 10.103.20.148
+Host is up (0.0046s latency).
+Not shown: 997 filtered ports
+PORT      STATE SERVICE
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+49165/tcp open  unknown
+
+Nmap scan report for 10.103.20.149
+Host is up (0.0021s latency).
+Not shown: 997 filtered ports
+PORT      STATE SERVICE
+6001/tcp  open  X11:1
+6881/tcp  open  bittorrent-tracker
+49155/tcp open  unknown
+
+Nmap scan report for 10.103.20.150
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.150 are filtered
+
+Nmap scan report for 10.103.20.151
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.151 are filtered (580) or closed (420)
+
+Nmap scan report for 10.103.20.152
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.152 are filtered
+
+Nmap scan report for 10.103.20.153
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.153 are filtered
+
+Nmap scan report for 10.103.20.154
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.154 are filtered
+
+Nmap scan report for 10.103.20.155
+Host is up (2.9s latency).
+Not shown: 992 filtered ports
+PORT     STATE  SERVICE
+617/tcp  closed sco-dtmgr
+1024/tcp closed kdm
+1556/tcp closed veritas_pbx
+1972/tcp closed intersys-cache
+2605/tcp closed bgpd
+3527/tcp closed beserver-msg-q
+9593/tcp closed cba8
+9929/tcp closed nping-echo
+
+Nmap scan report for 10.103.20.156
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.156 are filtered
+
+Nmap scan report for 10.103.20.157
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.157 are filtered
+
+Nmap scan report for 10.103.20.158
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.158 are filtered
+
+Nmap scan report for 10.103.20.159
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.159 are filtered
+
+Nmap scan report for 10.103.20.160
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.160 are filtered
+
+Nmap scan report for 10.103.20.161
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.161 are filtered
+
+Nmap scan report for 10.103.20.162
+Host is up (0.00048s latency).
+Not shown: 998 filtered ports
+PORT     STATE SERVICE
+5678/tcp open  rrac
+6001/tcp open  X11:1
+
+Nmap scan report for 10.103.20.163
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.163 are filtered
+
+Nmap scan report for 10.103.20.164
+Host is up (3.0s latency).
+Not shown: 996 filtered ports
+PORT      STATE  SERVICE
+1099/tcp  closed rmiregistry
+1108/tcp  closed ratio-adp
+1113/tcp  closed ltp-deepspace
+32782/tcp closed unknown
+
+Nmap scan report for 10.103.20.165
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.165 are filtered
+
+Nmap scan report for 10.103.20.166
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.166 are filtered
+
+Nmap scan report for 10.103.20.167
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.167 are filtered
+
+Nmap scan report for 10.103.20.168
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.168 are filtered
+
+Nmap scan report for 10.103.20.169
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.169 are filtered
+
+Nmap scan report for 10.103.20.170
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.170 are filtered
+
+Nmap scan report for 10.103.20.171
+Host is up (0.00048s latency).
+Not shown: 994 filtered ports
+PORT     STATE SERVICE
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3389/tcp open  ms-wbt-server
+3580/tcp open  nati-svrloc
+6001/tcp open  X11:1
+8080/tcp open  http-proxy
+
+Nmap scan report for 10.103.20.172
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.172 are filtered
+
+Nmap scan report for 10.103.20.173
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.173 are filtered
+
+Nmap scan report for 10.103.20.174
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.174 are filtered
+
+Nmap scan report for 10.103.20.175
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.175 are filtered
+
+Nmap scan report for 10.103.20.176
+Host is up (0.0018s latency).
+Not shown: 957 closed ports, 35 filtered ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+3580/tcp  open  nati-svrloc
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49156/tcp open  unknown
+49165/tcp open  unknown
+
+Nmap scan report for 10.103.20.177
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.177 are filtered
+
+Nmap scan report for 10.103.20.178
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.178 are filtered
+
+Nmap scan report for 10.103.20.179
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.179 are filtered
+
+Nmap scan report for 10.103.20.180
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.180 are filtered
+
+Nmap scan report for 10.103.20.181
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.181 are filtered
+
+Nmap scan report for 10.103.20.182
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.182 are filtered
+
+Nmap scan report for 10.103.20.183
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.183 are filtered
+
+Nmap scan report for 10.103.20.184
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.184 are filtered
+
+Nmap scan report for 10.103.20.185
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.185 are filtered
+
+Nmap scan report for 10.103.20.186
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.186 are filtered
+
+Nmap scan report for 10.103.20.187
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.187 are filtered
+
+Nmap scan report for 10.103.20.188
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.188 are filtered
+
+Nmap scan report for 10.103.20.189
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.189 are filtered
+
+Nmap scan report for 10.103.20.190
+Host is up (0.00060s latency).
+Not shown: 993 filtered ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+
+Nmap scan report for 10.103.20.191
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.191 are filtered
+
+Nmap scan report for 10.103.20.192
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.192 are filtered
+
+Nmap scan report for 10.103.20.193
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.193 are filtered
+
+Nmap scan report for 10.103.20.194
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.194 are filtered
+
+Nmap scan report for 10.103.20.195
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.195 are filtered
+
+Nmap scan report for 10.103.20.196
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.196 are filtered
+
+Nmap scan report for 10.103.20.197
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.197 are filtered
+
+Nmap scan report for 10.103.20.198
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.198 are filtered
+
+Nmap scan report for 10.103.20.199
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.20.199 are filtered
+
+Nmap scan report for 10.103.20.200
+Host is up (0.15s latency).
+All 1000 scanned ports on 10.103.20.200 are filtered
+
+Nmap scan report for 10.103.20.201
+Host is up (2.8s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap scan report for 10.103.20.202
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.202 are filtered
+
+Nmap scan report for 10.103.20.203
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.20.203 are filtered
+
+Nmap scan report for 10.103.20.204
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.204 are filtered
+
+Nmap scan report for 10.103.20.205
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.205 are filtered
+
+Nmap scan report for 10.103.20.206
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.206 are filtered
+
+Nmap scan report for 10.103.20.207
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.207 are filtered
+
+Nmap scan report for 10.103.20.208
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.208 are filtered
+
+Nmap scan report for 10.103.20.209
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.209 are filtered
+
+Nmap scan report for 10.103.20.210
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.20.210 are filtered
+
+Nmap scan report for 10.103.20.211
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.211 are closed (667) or filtered (333)
+
+Nmap scan report for 10.103.20.212
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.212 are filtered
+
+Nmap scan report for 10.103.20.213
+Host is up (0.97s latency).
+Not shown: 796 closed ports, 198 filtered ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+49153/tcp open  unknown
+49154/tcp open  unknown
+49156/tcp open  unknown
+
+Nmap scan report for 10.103.20.214
+Host is up (2.2s latency).
+All 1000 scanned ports on 10.103.20.214 are filtered
+
+Nmap scan report for 10.103.20.215
+Host is up (0.0012s latency).
+Not shown: 993 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+2869/tcp open  icslap
+3389/tcp open  ms-wbt-server
+5357/tcp open  wsdapi
+8082/tcp open  blackice-alerts
+
+Nmap scan report for 10.103.20.216
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.216 are filtered
+
+Nmap scan report for 10.103.20.217
+Host is up (2.9s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1947/tcp open  sentinelsrm
+
+Nmap scan report for 10.103.20.218
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.218 are filtered
+
+Nmap scan report for 10.103.20.219
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.219 are filtered
+
+Nmap scan report for 10.103.20.220
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.220 are filtered
+
+Nmap scan report for 10.103.20.221
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.221 are filtered
+
+Nmap scan report for 10.103.20.222
+Host is up (0.00041s latency).
+Not shown: 987 closed ports
+PORT      STATE    SERVICE
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+445/tcp   open     microsoft-ds
+1947/tcp  open     sentinelsrm
+3389/tcp  open     ms-wbt-server
+3546/tcp  filtered unknown
+6000/tcp  open     X11
+6699/tcp  filtered napster
+49152/tcp open     unknown
+49153/tcp open     unknown
+49154/tcp open     unknown
+49155/tcp open     unknown
+49156/tcp open     unknown
+
+Nmap scan report for 10.103.20.223
+Host is up (2.4s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap scan report for 10.103.20.224
+Host is up (0.00028s latency).
+Not shown: 976 closed ports
+PORT      STATE    SERVICE
+109/tcp   filtered pop2
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+212/tcp   filtered anet
+445/tcp   open     microsoft-ds
+1147/tcp  filtered capioverlan
+1521/tcp  open     oracle
+2008/tcp  filtered conf
+2035/tcp  filtered imsldoc
+2047/tcp  filtered dls
+2875/tcp  filtered dxmessagebase2
+3003/tcp  filtered cgms
+3389/tcp  open     ms-wbt-server
+5800/tcp  open     vnc-http
+5900/tcp  open     vnc
+6009/tcp  filtered X11:9
+10778/tcp filtered unknown
+11967/tcp filtered sysinfo-sp
+49152/tcp open     unknown
+49153/tcp open     unknown
+49154/tcp open     unknown
+49155/tcp open     unknown
+49157/tcp open     unknown
+49163/tcp open     unknown
+
+Nmap scan report for 10.103.20.225
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.225 are filtered
+
+Nmap scan report for 10.103.20.226
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.226 are filtered
+
+Nmap scan report for 10.103.20.227
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.227 are filtered
+
+Nmap scan report for 10.103.20.228
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.228 are filtered
+
+Nmap scan report for 10.103.20.229
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.229 are filtered
+
+Nmap scan report for 10.103.20.230
+Host is up (1.5s latency).
+Not shown: 522 closed ports, 472 filtered ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+3306/tcp  open  mysql
+49153/tcp open  unknown
+49154/tcp open  unknown
+
+Nmap scan report for 10.103.20.231
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.231 are filtered
+
+Nmap scan report for 10.103.20.232
+Host is up (2.6s latency).
+Not shown: 539 filtered ports, 458 closed ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap scan report for 10.103.20.233
+Host is up (2.5s latency).
+Not shown: 999 filtered ports
+PORT     STATE  SERVICE
+6002/tcp closed X11:2
+
+Nmap scan report for 10.103.20.234
+Host is up (0.00040s latency).
+Not shown: 978 closed ports
+PORT      STATE    SERVICE
+21/tcp    filtered ftp
+23/tcp    filtered telnet
+25/tcp    filtered smtp
+110/tcp   filtered pop3
+113/tcp   filtered ident
+135/tcp   filtered msrpc
+139/tcp   filtered netbios-ssn
+199/tcp   filtered smux
+443/tcp   filtered https
+445/tcp   filtered microsoft-ds
+554/tcp   filtered rtsp
+993/tcp   filtered imaps
+1041/tcp  filtered danf-ak2
+1045/tcp  open     fpitp
+1071/tcp  filtered bsquare-voip
+2200/tcp  filtered ici
+3306/tcp  filtered mysql
+5544/tcp  filtered unknown
+5900/tcp  filtered vnc
+6547/tcp  filtered powerchuteplus
+19101/tcp filtered unknown
+27000/tcp open     flexlm0
+
+Nmap scan report for 10.103.20.235
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.235 are filtered
+
+Nmap scan report for 10.103.20.236
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.236 are filtered
+
+Nmap scan report for 10.103.20.237
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.237 are filtered
+
+Nmap scan report for 10.103.20.238
+Host is up (1.4s latency).
+All 1000 scanned ports on 10.103.20.238 are filtered (742) or closed (258)
+
+Nmap scan report for 10.103.20.239
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.239 are filtered
+
+Nmap scan report for 10.103.20.240
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.240 are filtered
+
+Nmap scan report for 10.103.20.241
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.241 are filtered
+
+Nmap scan report for 10.103.20.242
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.242 are filtered
+
+Nmap scan report for 10.103.20.243
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.243 are filtered
+
+Nmap scan report for 10.103.20.244
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.244 are filtered
+
+Nmap scan report for 10.103.20.245
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.245 are filtered
+
+Nmap scan report for 10.103.20.246
+Host is up (0.00095s latency).
+All 1000 scanned ports on 10.103.20.246 are closed (945) or filtered (55)
+
+Nmap scan report for 10.103.20.247
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.247 are filtered
+
+Nmap scan report for 10.103.20.248
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.248 are filtered
+
+Nmap scan report for 10.103.20.249
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.20.249 are filtered
+
+Nmap scan report for 10.103.20.250
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.20.250 are filtered
+
+Nmap scan report for 10.103.20.251
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.251 are filtered
+
+Nmap scan report for 10.103.20.252
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.252 are filtered
+
+Nmap scan report for 10.103.20.253
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.20.253 are filtered
+
+Nmap scan report for 10.103.20.254
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.20.254 are filtered
+
+Nmap scan report for 10.103.20.255
+Host is up (3.0s latency).
+Not shown: 999 filtered ports
+PORT      STATE SERVICE
+49154/tcp open  unknown
+
+Nmap scan report for 10.103.21.0
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.0 are filtered
+
+Nmap scan report for 10.103.21.1
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.1 are filtered
+
+Nmap scan report for 10.103.21.2
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.2 are filtered
+
+Nmap scan report for 10.103.21.3
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.3 are filtered
+
+Nmap scan report for 10.103.21.4
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.4 are filtered
+
+Nmap scan report for 10.103.21.5
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.5 are filtered
+
+Nmap scan report for 10.103.21.6
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.6 are filtered
+
+Nmap scan report for 10.103.21.7
+Host is up (0.0043s latency).
+Not shown: 974 closed ports
+PORT      STATE    SERVICE
+4/tcp     filtered unknown
+22/tcp    open     ssh
+23/tcp    open     telnet
+30/tcp    filtered unknown
+80/tcp    open     http
+82/tcp    filtered xfer
+125/tcp   filtered locus-map
+417/tcp   filtered onmux
+544/tcp   filtered kshell
+625/tcp   filtered apple-xsrvr-admin
+705/tcp   filtered agentx
+1021/tcp  filtered exp1
+1062/tcp  filtered veracity
+1311/tcp  filtered rxmon
+1914/tcp  filtered elm-momentum
+5550/tcp  filtered sdadmind
+5631/tcp  filtered pcanywheredata
+6789/tcp  filtered ibm-db2-admin
+7201/tcp  filtered dlip
+7435/tcp  filtered unknown
+7938/tcp  filtered lgtomapper
+8333/tcp  filtered unknown
+8652/tcp  filtered unknown
+9080/tcp  filtered glrpc
+9091/tcp  filtered xmltec-xmlmail
+27000/tcp filtered flexlm0
+
+Nmap scan report for 10.103.21.8
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.8 are filtered
+
+Nmap scan report for 10.103.21.9
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.9 are filtered
+
+Nmap scan report for 10.103.21.10
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.10 are filtered
+
+Nmap scan report for 10.103.21.11
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.11 are filtered
+
+Nmap scan report for 10.103.21.12
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.12 are filtered
+
+Nmap scan report for 10.103.21.13
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.13 are filtered
+
+Nmap scan report for 10.103.21.14
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.14 are filtered
+
+Nmap scan report for 10.103.21.15
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.15 are filtered
+
+Nmap scan report for 10.103.21.16
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.16 are filtered
+
+Nmap scan report for 10.103.21.17
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.17 are filtered
+
+Nmap scan report for 10.103.21.18
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.18 are filtered
+
+Nmap scan report for 10.103.21.19
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.19 are filtered
+
+Nmap scan report for 10.103.21.20
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.20 are filtered
+
+Nmap scan report for 10.103.21.21
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.21 are filtered
+
+Nmap scan report for 10.103.21.22
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.22 are filtered
+
+Nmap scan report for 10.103.21.23
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.23 are filtered
+
+Nmap scan report for 10.103.21.24
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.24 are filtered
+
+Nmap scan report for 10.103.21.25
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.25 are filtered
+
+Nmap scan report for 10.103.21.26
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.26 are filtered
+
+Nmap scan report for 10.103.21.27
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.27 are filtered
+
+Nmap scan report for 10.103.21.28
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.28 are filtered
+
+Nmap scan report for 10.103.21.29
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.29 are filtered
+
+Nmap scan report for 10.103.21.30
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.30 are filtered
+
+Nmap scan report for 10.103.21.31
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.31 are filtered
+
+Nmap scan report for 10.103.21.32
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.32 are filtered
+
+Nmap scan report for 10.103.21.33
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.33 are filtered
+
+Nmap scan report for 10.103.21.34
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.34 are filtered
+
+Nmap scan report for 10.103.21.35
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.21.35 are filtered
+
+Nmap scan report for 10.103.21.36
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.36 are filtered
+
+Nmap scan report for 10.103.21.37
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.37 are filtered
+
+Nmap scan report for 10.103.21.38
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.38 are filtered
+
+Nmap scan report for 10.103.21.39
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.39 are filtered
+
+Nmap scan report for 10.103.21.40
+Host is up (0.00039s latency).
+Not shown: 998 filtered ports
+PORT      STATE SERVICE
+27000/tcp open  flexlm0
+49154/tcp open  unknown
+
+Nmap scan report for 10.103.21.41
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.21.41 are filtered
+
+Nmap scan report for 10.103.21.42
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.42 are filtered
+
+Nmap scan report for 10.103.21.43
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.43 are filtered
+
+Nmap scan report for 10.103.21.44
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.44 are filtered
+
+Nmap scan report for 10.103.21.45
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.45 are filtered
+
+Nmap scan report for 10.103.21.46
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.46 are filtered
+
+Nmap scan report for 10.103.21.47
+Host is up (0.0011s latency).
+Not shown: 991 filtered ports
+PORT      STATE SERVICE
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+1025/tcp  open  NFS-or-IIS
+1026/tcp  open  LSA-or-nterm
+1027/tcp  open  IIS
+1028/tcp  open  unknown
+5357/tcp  open  wsdapi
+6001/tcp  open  X11:1
+20222/tcp open  ipulse-ics
+
+Nmap scan report for 10.103.21.48
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.48 are filtered
+
+Nmap scan report for 10.103.21.49
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.49 are filtered
+
+Nmap scan report for 10.103.21.50
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.50 are filtered
+
+Nmap scan report for 10.103.21.51
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.21.51 are filtered
+
+Nmap scan report for 10.103.21.52
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.52 are filtered
+
+Nmap scan report for 10.103.21.53
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.53 are filtered
+
+Nmap scan report for 10.103.21.54
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.54 are filtered
+
+Nmap scan report for 10.103.21.55
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.55 are filtered
+
+Nmap scan report for 10.103.21.56
+Host is up (0.00078s latency).
+Not shown: 566 closed ports, 433 filtered ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for 10.103.21.57
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.57 are filtered
+
+Nmap scan report for 10.103.21.58
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.58 are filtered
+
+Nmap scan report for 10.103.21.59
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.59 are filtered
+
+Nmap scan report for 10.103.21.60
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.60 are filtered
+
+Nmap scan report for 10.103.21.61
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.61 are filtered
+
+Nmap scan report for 10.103.21.62
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.62 are filtered
+
+Nmap scan report for 10.103.21.63
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.63 are filtered
+
+Warning: 10.103.21.121 giving up on port because retransmission cap hit (10).
+Warning: 10.103.21.126 giving up on port because retransmission cap hit (10).
+Warning: 10.103.21.100 giving up on port because retransmission cap hit (10).
+Nmap scan report for 10.103.21.64
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.64 are filtered
+
+Nmap scan report for 10.103.21.65
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.65 are filtered
+
+Nmap scan report for 10.103.21.66
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.66 are filtered
+
+Nmap scan report for 10.103.21.67
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.67 are filtered
+
+Nmap scan report for 10.103.21.68
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.21.68 are filtered
+
+Nmap scan report for 10.103.21.69
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.69 are filtered
+
+Nmap scan report for 10.103.21.70
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.70 are filtered
+
+Nmap scan report for 10.103.21.71
+Host is up (0.0089s latency).
+Not shown: 980 closed ports
+PORT      STATE    SERVICE
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+306/tcp   filtered unknown
+445/tcp   open     microsoft-ds
+541/tcp   filtered uucp-rlogin
+563/tcp   filtered snews
+1002/tcp  filtered windows-icfw
+1041/tcp  filtered danf-ak2
+1105/tcp  filtered ftranhc
+1138/tcp  filtered encrypted_admin
+1322/tcp  filtered novation
+2043/tcp  filtered isis-bcast
+2068/tcp  filtered advocentkvm
+3389/tcp  open     ms-wbt-server
+6002/tcp  open     X11:2
+8180/tcp  filtered unknown
+16018/tcp filtered unknown
+32784/tcp filtered unknown
+33899/tcp filtered unknown
+34572/tcp filtered unknown
+
+Nmap scan report for 10.103.21.72
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.72 are filtered
+
+Nmap scan report for 10.103.21.73
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.73 are filtered
+
+Nmap scan report for 10.103.21.74
+Host is up (0.012s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+5357/tcp open  wsdapi
+
+Nmap scan report for 10.103.21.75
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.75 are filtered
+
+Nmap scan report for 10.103.21.76
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.76 are filtered
+
+Nmap scan report for 10.103.21.77
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.77 are filtered
+
+Nmap scan report for 10.103.21.78
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.78 are filtered
+
+Nmap scan report for 10.103.21.79
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.79 are filtered
+
+Nmap scan report for 10.103.21.80
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.80 are filtered
+
+Nmap scan report for 10.103.21.81
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.81 are filtered
+
+Nmap scan report for 10.103.21.82
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.82 are filtered
+
+Nmap scan report for 10.103.21.83
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.83 are filtered
+
+Nmap scan report for 10.103.21.84
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.84 are filtered
+
+Nmap scan report for 10.103.21.85
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.85 are filtered
+
+Nmap scan report for 10.103.21.86
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.86 are filtered
+
+Nmap scan report for 10.103.21.87
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.87 are filtered
+
+Nmap scan report for 10.103.21.88
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.88 are filtered
+
+Nmap scan report for 10.103.21.89
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.89 are filtered
+
+Nmap scan report for 10.103.21.90
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.90 are filtered
+
+Nmap scan report for 10.103.21.91
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.91 are filtered
+
+Nmap scan report for 10.103.21.92
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.92 are filtered
+
+Nmap scan report for 10.103.21.93
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.93 are filtered
+
+Nmap scan report for 10.103.21.94
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.94 are filtered
+
+Nmap scan report for 10.103.21.95
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.21.95 are filtered
+
+Nmap scan report for 10.103.21.96
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.96 are filtered
+
+Nmap scan report for 10.103.21.97
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.97 are filtered
+
+Nmap scan report for 10.103.21.98
+Host is up (0.00040s latency).
+Not shown: 998 filtered ports
+PORT      STATE SERVICE
+3389/tcp  open  ms-wbt-server
+24800/tcp open  unknown
+
+Nmap scan report for 10.103.21.99
+Host is up (0.00072s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap scan report for 10.103.21.100
+Host is up (0.00057s latency).
+Not shown: 974 closed ports
+PORT      STATE    SERVICE
+21/tcp    open     ftp
+23/tcp    open     telnet
+80/tcp    open     http
+84/tcp    filtered ctf
+515/tcp   open     printer
+593/tcp   filtered http-rpc-epmap
+631/tcp   open     ipp
+1002/tcp  filtered windows-icfw
+1086/tcp  filtered cplscrambler-lg
+1154/tcp  filtered resacommunity
+1163/tcp  filtered sddp
+2005/tcp  filtered deslogin
+2200/tcp  filtered ici
+3269/tcp  filtered globalcatLDAPssl
+3801/tcp  filtered ibm-mgr
+7000/tcp  filtered afs3-fileserver
+7025/tcp  filtered vmsvc-2
+7999/tcp  filtered irdmi2
+9040/tcp  filtered tor-trans
+9090/tcp  filtered zeus-admin
+9100/tcp  open     jetdirect
+16001/tcp filtered fmsascon
+16993/tcp filtered amt-soap-https
+24800/tcp filtered unknown
+38292/tcp filtered landesk-cba
+49999/tcp filtered unknown
+
+Nmap scan report for 10.103.21.101
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.101 are filtered
+
+Nmap scan report for 10.103.21.102
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.21.102 are filtered
+
+Nmap scan report for 10.103.21.103
+Host is up (2.1s latency).
+All 1000 scanned ports on 10.103.21.103 are filtered
+
+Nmap scan report for 10.103.21.104
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.21.104 are filtered
+
+Nmap scan report for 10.103.21.105
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.105 are filtered
+
+Nmap scan report for 10.103.21.106
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.106 are filtered
+
+Nmap scan report for 10.103.21.107
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.107 are filtered
+
+Nmap scan report for 10.103.21.108
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.21.108 are filtered
+
+Nmap scan report for 10.103.21.109
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.109 are filtered
+
+Nmap scan report for 10.103.21.110
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.110 are filtered
+
+Nmap scan report for 10.103.21.111
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.111 are filtered
+
+Nmap scan report for 10.103.21.112
+Host is up (0.00040s latency).
+Not shown: 984 closed ports
+PORT      STATE    SERVICE
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+445/tcp   open     microsoft-ds
+1029/tcp  filtered ms-lsa
+1141/tcp  filtered mxomss
+1198/tcp  filtered cajo-discovery
+1974/tcp  filtered drp
+2119/tcp  filtered gsigatekeeper
+2288/tcp  filtered netml
+2725/tcp  filtered msolap-ptp2
+3367/tcp  filtered satvid-datalnk
+3580/tcp  open     nati-svrloc
+3703/tcp  filtered adobeserver-3
+5678/tcp  filtered rrac
+5922/tcp  filtered unknown
+22939/tcp filtered unknown
+
+Nmap scan report for 10.103.21.113
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.113 are filtered
+
+Nmap scan report for 10.103.21.114
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.114 are filtered
+
+Nmap scan report for 10.103.21.115
+Host is up (0.0017s latency).
+Not shown: 999 filtered ports
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 10.103.21.116
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.116 are filtered
+
+Nmap scan report for 10.103.21.117
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.117 are filtered
+
+Nmap scan report for 10.103.21.118
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.118 are filtered
+
+Nmap scan report for 10.103.21.119
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.119 are filtered
+
+Nmap scan report for 10.103.21.120
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.120 are filtered
+
+Nmap scan report for 10.103.21.121
+Host is up (0.00027s latency).
+Not shown: 967 closed ports
+PORT      STATE    SERVICE
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+264/tcp   filtered bgmp
+311/tcp   filtered asip-webadmin
+445/tcp   open     microsoft-ds
+543/tcp   filtered klogin
+631/tcp   filtered ipp
+667/tcp   filtered disclose
+1521/tcp  open     oracle
+1658/tcp  filtered sixnetudr
+1875/tcp  filtered westell-stats
+2811/tcp  filtered gsiftp
+3389/tcp  open     ms-wbt-server
+4003/tcp  filtered pxc-splr-ft
+5030/tcp  filtered surfpass
+5566/tcp  filtered westec-connect
+5862/tcp  filtered unknown
+5900/tcp  open     vnc
+5987/tcp  filtered wbem-rmi
+8009/tcp  open     ajp13
+8080/tcp  open     http-proxy
+9000/tcp  filtered cslistener
+10004/tcp filtered emcrmirccd
+15742/tcp filtered unknown
+16012/tcp filtered unknown
+20828/tcp filtered unknown
+28201/tcp filtered unknown
+49152/tcp open     unknown
+49153/tcp open     unknown
+49154/tcp open     unknown
+49155/tcp open     unknown
+49157/tcp open     unknown
+60443/tcp filtered unknown
+
+Nmap scan report for 10.103.21.122
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.122 are filtered
+
+Nmap scan report for 10.103.21.123
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.123 are filtered
+
+Nmap scan report for 10.103.21.124
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.124 are filtered
+
+Nmap scan report for 10.103.21.125
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.125 are filtered
+
+Nmap scan report for 10.103.21.126
+Host is up (0.00024s latency).
+Not shown: 964 closed ports, 26 filtered ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+5357/tcp  open  wsdapi
+5678/tcp  open  rrac
+10000/tcp open  snet-sensor-mgmt
+49152/tcp open  unknown
+49153/tcp open  unknown
+49155/tcp open  unknown
+49163/tcp open  unknown
+
+Nmap scan report for 10.103.21.127
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.127 are filtered
+
+Nmap scan report for 10.103.21.128
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.128 are filtered
+
+Nmap scan report for 10.103.21.129
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.129 are filtered
+
+Nmap scan report for 10.103.21.130
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.130 are filtered
+
+Nmap scan report for 10.103.21.131
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.131 are filtered
+
+Nmap scan report for 10.103.21.132
+Host is up (0.00038s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+843/tcp  open  unknown
+8000/tcp open  http-alt
+
+Nmap scan report for 10.103.21.133
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.133 are filtered
+
+Nmap scan report for 10.103.21.134
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.134 are filtered
+
+Nmap scan report for 10.103.21.135
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.135 are filtered
+
+Nmap scan report for 10.103.21.136
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.136 are filtered
+
+Nmap scan report for 10.103.21.137
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.137 are filtered
+
+Nmap scan report for 10.103.21.138
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.138 are filtered
+
+Nmap scan report for 10.103.21.139
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.139 are filtered
+
+Nmap scan report for 10.103.21.140
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.21.140 are filtered
+
+Nmap scan report for 10.103.21.141
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.141 are filtered
+
+Nmap scan report for 10.103.21.142
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.142 are filtered
+
+Nmap scan report for 10.103.21.143
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.143 are filtered
+
+Nmap scan report for 10.103.21.144
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.144 are filtered
+
+Nmap scan report for 10.103.21.145
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.145 are filtered
+
+Nmap scan report for 10.103.21.146
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.146 are filtered
+
+Nmap scan report for 10.103.21.147
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.147 are filtered
+
+Nmap scan report for 10.103.21.148
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.148 are filtered
+
+Nmap scan report for 10.103.21.149
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.149 are filtered
+
+Nmap scan report for 10.103.21.150
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.150 are filtered
+
+Nmap scan report for 10.103.21.151
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.151 are filtered
+
+Nmap scan report for 10.103.21.152
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.152 are filtered
+
+Nmap scan report for 10.103.21.153
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.153 are filtered
+
+Nmap scan report for 10.103.21.154
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.154 are filtered
+
+Nmap scan report for 10.103.21.155
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.155 are filtered
+
+Nmap scan report for 10.103.21.156
+Host is up (0.00096s latency).
+Not shown: 998 filtered ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 10.103.21.157
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.157 are filtered
+
+Nmap scan report for 10.103.21.158
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.158 are filtered
+
+Nmap scan report for 10.103.21.159
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.159 are filtered
+
+Nmap scan report for 10.103.21.160
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.160 are filtered
+
+Nmap scan report for 10.103.21.161
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.161 are filtered
+
+Nmap scan report for 10.103.21.162
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.162 are filtered
+
+Nmap scan report for 10.103.21.163
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.163 are filtered
+
+Nmap scan report for 10.103.21.164
+Host is up (0.00038s latency).
+Not shown: 990 closed ports
+PORT      STATE SERVICE
+80/tcp    open  http
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+3389/tcp  open  ms-wbt-server
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49156/tcp open  unknown
+49165/tcp open  unknown
+
+Nmap scan report for 10.103.21.165
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.165 are filtered
+
+Nmap scan report for 10.103.21.166
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.166 are filtered
+
+Nmap scan report for 10.103.21.167
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.167 are filtered
+
+Nmap scan report for 10.103.21.168
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.168 are filtered
+
+Nmap scan report for 10.103.21.169
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.169 are filtered
+
+Nmap scan report for 10.103.21.170
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.170 are filtered
+
+Nmap scan report for 10.103.21.171
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.171 are filtered
+
+Nmap scan report for 10.103.21.172
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.172 are filtered
+
+Nmap scan report for 10.103.21.173
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.173 are filtered
+
+Nmap scan report for 10.103.21.174
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.174 are filtered
+
+Nmap scan report for 10.103.21.175
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.175 are filtered
+
+Nmap scan report for 10.103.21.176
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.176 are filtered
+
+Nmap scan report for 10.103.21.177
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.177 are filtered
+
+Nmap scan report for 10.103.21.178
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.178 are filtered
+
+Nmap scan report for 10.103.21.179
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.179 are filtered
+
+Nmap scan report for 10.103.21.180
+Host is up (0.00031s latency).
+Not shown: 990 filtered ports
+PORT     STATE  SERVICE
+22/tcp   closed ssh
+80/tcp   open   http
+427/tcp  open   svrloc
+443/tcp  open   https
+902/tcp  open   iss-realsecure
+5988/tcp closed wbem-http
+5989/tcp open   wbem-https
+8000/tcp open   http-alt
+8100/tcp open   xprint-server
+8300/tcp closed tmi
+
+Nmap scan report for 10.103.21.181
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.181 are filtered
+
+Nmap scan report for 10.103.21.182
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.182 are filtered
+
+Nmap scan report for 10.103.21.183
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.183 are filtered
+
+Nmap scan report for 10.103.21.184
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.184 are filtered
+
+Nmap scan report for 10.103.21.185
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.185 are filtered
+
+Nmap scan report for 10.103.21.186
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.186 are filtered
+
+Nmap scan report for 10.103.21.187
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.187 are filtered
+
+Nmap scan report for 10.103.21.188
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.188 are filtered
+
+Nmap scan report for 10.103.21.189
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.189 are filtered
+
+Nmap scan report for 10.103.21.190
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.190 are filtered
+
+Nmap scan report for 10.103.21.191
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.191 are filtered
+
+Nmap scan report for 10.103.21.192
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.192 are filtered
+
+Nmap scan report for 10.103.21.193
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.21.193 are filtered
+
+Nmap scan report for 10.103.21.194
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.194 are filtered
+
+Nmap scan report for 10.103.21.195
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.195 are filtered
+
+Nmap scan report for 10.103.21.196
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.196 are filtered
+
+Nmap scan report for 10.103.21.197
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.197 are filtered
+
+Nmap scan report for 10.103.21.198
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.198 are filtered
+
+Nmap scan report for 10.103.21.199
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.199 are filtered
+
+Nmap scan report for 10.103.21.200
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.200 are filtered
+
+Nmap scan report for 10.103.21.201
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.201 are filtered
+
+Nmap scan report for 10.103.21.202
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.202 are filtered
+
+Nmap scan report for 10.103.21.203
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.21.203 are filtered
+
+Nmap scan report for 10.103.21.204
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.21.204 are filtered
+
+Nmap scan report for 10.103.21.205
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.205 are filtered
+
+Nmap scan report for 10.103.21.206
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.206 are filtered
+
+Nmap scan report for 10.103.21.207
+Host is up (0.00066s latency).
+Not shown: 993 filtered ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+1947/tcp  open  sentinelsrm
+3389/tcp  open  ms-wbt-server
+49157/tcp open  unknown
+49158/tcp open  unknown
+
+Nmap scan report for 10.103.21.208
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.21.208 are filtered
+
+Nmap scan report for 10.103.21.209
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.21.209 are filtered
+
+Nmap scan report for 10.103.21.210
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.210 are filtered
+
+Nmap scan report for 10.103.21.211
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.211 are filtered
+
+Nmap scan report for 10.103.21.212
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.212 are filtered
+
+Nmap scan report for 10.103.21.213
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.21.213 are filtered
+
+Nmap scan report for 10.103.21.214
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.214 are filtered
+
+Nmap scan report for 10.103.21.215
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.21.215 are filtered
+
+Nmap scan report for 10.103.21.216
+Host is up (0.21s latency).
+Not shown: 998 filtered ports
+PORT     STATE SERVICE
+5357/tcp open  wsdapi
+6001/tcp open  X11:1
+
+Nmap scan report for 10.103.21.217
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.21.217 are filtered
+
+Nmap scan report for 10.103.21.218
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.218 are filtered
+
+Nmap scan report for 10.103.21.219
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.219 are filtered
+
+Nmap scan report for 10.103.21.220
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.21.220 are filtered
+
+Nmap scan report for 10.103.21.221
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.221 are filtered
+
+Nmap scan report for 10.103.21.222
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.222 are filtered
+
+Nmap scan report for 10.103.21.223
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.21.223 are filtered
+
+Nmap scan report for 10.103.21.224
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.21.224 are filtered
+
+Nmap scan report for 10.103.21.225
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.225 are filtered
+
+Nmap scan report for 10.103.21.226
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.226 are filtered
+
+Nmap scan report for 10.103.21.227
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.227 are filtered
+
+Nmap scan report for 10.103.21.228
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.228 are filtered
+
+Nmap scan report for 10.103.21.229
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.229 are filtered
+
+Nmap scan report for 10.103.21.230
+Host is up (0.00052s latency).
+All 1000 scanned ports on 10.103.21.230 are filtered (628) or closed (372)
+
+Nmap scan report for 10.103.21.231
+Host is up (0.00026s latency).
+Not shown: 932 closed ports, 65 filtered ports
+PORT     STATE SERVICE
+1064/tcp open  jstel
+3580/tcp open  nati-svrloc
+6000/tcp open  X11
+
+Nmap scan report for 10.103.21.232
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.232 are filtered
+
+Nmap scan report for 10.103.21.233
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.233 are filtered
+
+Nmap scan report for 10.103.21.234
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.234 are filtered
+
+Nmap scan report for 10.103.21.235
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.235 are filtered
+
+Nmap scan report for 10.103.21.236
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.236 are filtered
+
+Nmap scan report for 10.103.21.237
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.237 are filtered
+
+Nmap scan report for 10.103.21.238
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.238 are filtered
+
+Nmap scan report for 10.103.21.239
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.239 are filtered
+
+Nmap scan report for 10.103.21.240
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.240 are filtered
+
+Nmap scan report for 10.103.21.241
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.241 are filtered
+
+Nmap scan report for 10.103.21.242
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.242 are filtered
+
+Nmap scan report for 10.103.21.243
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.243 are filtered
+
+Nmap scan report for 10.103.21.244
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.244 are filtered
+
+Nmap scan report for 10.103.21.245
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.245 are filtered
+
+Nmap scan report for 10.103.21.246
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.246 are filtered
+
+Nmap scan report for 10.103.21.247
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.247 are filtered
+
+Nmap scan report for 10.103.21.248
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.248 are filtered
+
+Nmap scan report for 10.103.21.249
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.249 are filtered
+
+Nmap scan report for 10.103.21.250
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.250 are filtered
+
+Nmap scan report for 10.103.21.251
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.251 are filtered
+
+Nmap scan report for 10.103.21.252
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.252 are filtered
+
+Nmap scan report for 10.103.21.253
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.253 are filtered
+
+Nmap scan report for 10.103.21.254
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.21.254 are filtered
+
+Nmap scan report for 10.103.21.255
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.21.255 are filtered
+
+Nmap scan report for 10.103.22.0
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.0 are filtered
+
+Nmap scan report for 10.103.22.1
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.1 are filtered
+
+Nmap scan report for 10.103.22.2
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.2 are filtered
+
+Nmap scan report for 10.103.22.3
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.3 are filtered
+
+Nmap scan report for 10.103.22.4
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.4 are filtered
+
+Nmap scan report for 10.103.22.5
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.5 are filtered
+
+Nmap scan report for 10.103.22.6
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.6 are filtered
+
+Nmap scan report for 10.103.22.7
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.7 are filtered
+
+Nmap scan report for 10.103.22.8
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.8 are filtered
+
+Nmap scan report for 10.103.22.9
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.9 are filtered
+
+Nmap scan report for 10.103.22.10
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.10 are filtered
+
+Nmap scan report for 10.103.22.11
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.11 are filtered
+
+Nmap scan report for 10.103.22.12
+Host is up (1.2s latency).
+All 1000 scanned ports on 10.103.22.12 are filtered
+
+Nmap scan report for 10.103.22.13
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.13 are filtered
+
+Nmap scan report for 10.103.22.14
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.14 are filtered
+
+Nmap scan report for 10.103.22.15
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.15 are filtered
+
+Nmap scan report for 10.103.22.16
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.16 are filtered
+
+Nmap scan report for 10.103.22.17
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.22.17 are filtered
+
+Nmap scan report for 10.103.22.18
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.22.18 are filtered
+
+Nmap scan report for 10.103.22.19
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.19 are filtered
+
+Nmap scan report for 10.103.22.20
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.20 are filtered
+
+Nmap scan report for 10.103.22.21
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.21 are filtered
+
+Nmap scan report for 10.103.22.22
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.22 are filtered
+
+Nmap scan report for 10.103.22.23
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.23 are filtered
+
+Nmap scan report for 10.103.22.24
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.24 are filtered
+
+Nmap scan report for 10.103.22.25
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.25 are filtered
+
+Nmap scan report for 10.103.22.26
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.26 are filtered
+
+Nmap scan report for 10.103.22.27
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.27 are filtered
+
+Nmap scan report for 10.103.22.28
+Host is up.
+All 1000 scanned ports on 10.103.22.28 are filtered
+
+Nmap scan report for 10.103.22.29
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.29 are filtered
+
+Nmap scan report for 10.103.22.30
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.30 are filtered
+
+Nmap scan report for 10.103.22.31
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.31 are filtered
+
+Nmap scan report for 10.103.22.32
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.32 are filtered
+
+Nmap scan report for 10.103.22.33
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.33 are filtered
+
+Nmap scan report for 10.103.22.34
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.22.34 are filtered
+
+Nmap scan report for 10.103.22.35
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.35 are filtered
+
+Nmap scan report for 10.103.22.36
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.36 are filtered
+
+Nmap scan report for 10.103.22.37
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.37 are filtered
+
+Nmap scan report for 10.103.22.38
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.38 are filtered
+
+Nmap scan report for 10.103.22.39
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.39 are filtered
+
+Nmap scan report for 10.103.22.40
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.40 are filtered
+
+Nmap scan report for 10.103.22.41
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.41 are filtered
+
+Nmap scan report for 10.103.22.42
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.42 are filtered
+
+Nmap scan report for 10.103.22.43
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.43 are filtered
+
+Nmap scan report for 10.103.22.44
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.44 are filtered
+
+Nmap scan report for 10.103.22.45
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.45 are filtered
+
+Nmap scan report for 10.103.22.46
+Host is up (0.00061s latency).
+Not shown: 956 closed ports, 28 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+443/tcp  open  https
+445/tcp  open  microsoft-ds
+843/tcp  open  unknown
+902/tcp  open  iss-realsecure
+912/tcp  open  apex-mesh
+1025/tcp open  NFS-or-IIS
+1026/tcp open  LSA-or-nterm
+1027/tcp open  IIS
+1028/tcp open  unknown
+1433/tcp open  ms-sql-s
+2383/tcp open  ms-olap4
+3389/tcp open  ms-wbt-server
+3580/tcp open  nati-svrloc
+8080/tcp open  http-proxy
+
+Nmap scan report for 10.103.22.47
+Host is up (0.00063s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+5357/tcp open  wsdapi
+
+Nmap scan report for 10.103.22.48
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.48 are filtered
+
+Nmap scan report for 10.103.22.49
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.49 are filtered
+
+Nmap scan report for 10.103.22.50
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.50 are filtered
+
+Nmap scan report for 10.103.22.51
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.51 are filtered
+
+Nmap scan report for 10.103.22.52
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.52 are filtered
+
+Nmap scan report for 10.103.22.53
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.53 are filtered
+
+Nmap scan report for 10.103.22.54
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.54 are filtered
+
+Nmap scan report for 10.103.22.55
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.55 are filtered
+
+Nmap scan report for 10.103.22.56
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.56 are filtered
+
+Nmap scan report for 10.103.22.57
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.57 are filtered
+
+Nmap scan report for 10.103.22.58
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.58 are filtered
+
+Nmap scan report for 10.103.22.59
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.59 are filtered
+
+Nmap scan report for 10.103.22.60
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.60 are filtered
+
+Nmap scan report for 10.103.22.61
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.61 are filtered
+
+Nmap scan report for 10.103.22.62
+Host is up (0.0049s latency).
+All 1000 scanned ports on 10.103.22.62 are closed (826) or filtered (174)
+
+Nmap scan report for 10.103.22.63
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.63 are filtered
+
+Nmap scan report for 10.103.22.64
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.64 are filtered
+
+Nmap scan report for 10.103.22.65
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.65 are filtered
+
+Nmap scan report for 10.103.22.66
+Host is up (1.7s latency).
+All 1000 scanned ports on 10.103.22.66 are filtered
+
+Nmap scan report for 10.103.22.67
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.67 are filtered
+
+Nmap scan report for 10.103.22.68
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.68 are filtered
+
+Nmap scan report for 10.103.22.69
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.22.69 are filtered
+
+Nmap scan report for 10.103.22.70
+Host is up (2.2s latency).
+All 1000 scanned ports on 10.103.22.70 are filtered
+
+Nmap scan report for 10.103.22.71
+Host is up (1.9s latency).
+All 1000 scanned ports on 10.103.22.71 are filtered
+
+Nmap scan report for 10.103.22.72
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.22.72 are filtered
+
+Nmap scan report for 10.103.22.73
+Host is up (2.0s latency).
+All 1000 scanned ports on 10.103.22.73 are filtered
+
+Nmap scan report for 10.103.22.74
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.74 are filtered
+
+Nmap scan report for 10.103.22.75
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.75 are filtered
+
+Nmap scan report for 10.103.22.76
+Host is up (2.2s latency).
+All 1000 scanned ports on 10.103.22.76 are filtered
+
+Nmap scan report for 10.103.22.77
+Host is up (0.00058s latency).
+Not shown: 991 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+515/tcp  open  printer
+631/tcp  open  ipp
+5222/tcp open  xmpp-client
+8080/tcp open  http-proxy
+8291/tcp open  unknown
+8292/tcp open  blp3
+8888/tcp open  sun-answerbook
+9100/tcp open  jetdirect
+
+Nmap scan report for 10.103.22.78
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.78 are filtered
+
+Nmap scan report for 10.103.22.79
+Host is up (0.0011s latency).
+Not shown: 952 closed ports, 43 filtered ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+445/tcp  open  microsoft-ds
+548/tcp  open  afp
+3031/tcp open  eppc
+3689/tcp open  rendezvous
+
+Nmap scan report for 10.103.22.80
+Host is up (0.015s latency).
+All 1000 scanned ports on 10.103.22.80 are filtered (928) or closed (72)
+
+Nmap scan report for 10.103.22.81
+Host is up (0.0014s latency).
+Not shown: 997 filtered ports
+PORT      STATE SERVICE
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49155/tcp open  unknown
+
+Nmap scan report for 10.103.22.82
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.82 are filtered
+
+Nmap scan report for 10.103.22.83
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.83 are filtered
+
+Nmap scan report for 10.103.22.84
+Host is up (2.2s latency).
+All 1000 scanned ports on 10.103.22.84 are filtered
+
+Nmap scan report for 10.103.22.85
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.85 are filtered
+
+Nmap scan report for 10.103.22.86
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.86 are filtered
+
+Nmap scan report for 10.103.22.87
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.87 are filtered
+
+Nmap scan report for 10.103.22.88
+Host is up (3.7s latency).
+All 1000 scanned ports on 10.103.22.88 are filtered
+
+Nmap scan report for 10.103.22.89
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.89 are filtered
+
+Nmap scan report for 10.103.22.90
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.90 are filtered
+
+Nmap scan report for 10.103.22.91
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.91 are filtered
+
+Nmap scan report for 10.103.22.92
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.92 are filtered
+
+Nmap scan report for 10.103.22.93
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.93 are filtered
+
+Nmap scan report for 10.103.22.94
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.94 are filtered
+
+Nmap scan report for 10.103.22.95
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.95 are filtered
+
+Nmap scan report for 10.103.22.96
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.96 are filtered
+
+Nmap scan report for 10.103.22.97
+Host is up (0.00072s latency).
+Not shown: 971 closed ports, 27 filtered ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+6000/tcp open  X11
+
+Nmap scan report for 10.103.22.98
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.98 are filtered
+
+Nmap scan report for 10.103.22.99
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.99 are filtered
+
+Nmap scan report for 10.103.22.100
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.100 are filtered
+
+Nmap scan report for 10.103.22.101
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.101 are filtered
+
+Nmap scan report for 10.103.22.102
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.102 are filtered
+
+Nmap scan report for 10.103.22.103
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.103 are filtered
+
+Nmap scan report for 10.103.22.104
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.104 are filtered
+
+Nmap scan report for 10.103.22.105
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.105 are filtered
+
+Nmap scan report for 10.103.22.106
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.22.106 are filtered
+
+Nmap scan report for 10.103.22.107
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.107 are filtered
+
+Nmap scan report for 10.103.22.108
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.108 are filtered
+
+Nmap scan report for 10.103.22.109
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.109 are filtered
+
+Nmap scan report for 10.103.22.110
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.110 are filtered
+
+Nmap scan report for 10.103.22.111
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.111 are filtered
+
+Nmap scan report for 10.103.22.112
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.112 are filtered
+
+Nmap scan report for 10.103.22.113
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.113 are filtered
+
+Nmap scan report for 10.103.22.114
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.114 are filtered
+
+Nmap scan report for 10.103.22.115
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.115 are filtered
+
+Nmap scan report for 10.103.22.116
+Host is up (0.00050s latency).
+All 1000 scanned ports on 10.103.22.116 are closed (953) or filtered (47)
+
+Nmap scan report for 10.103.22.117
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.117 are filtered
+
+Nmap scan report for 10.103.22.118
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.118 are filtered
+
+Nmap scan report for 10.103.22.119
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.119 are filtered
+
+Nmap scan report for 10.103.22.120
+Host is up (0.0010s latency).
+Not shown: 995 filtered ports
+PORT      STATE SERVICE
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+3389/tcp  open  ms-wbt-server
+5357/tcp  open  wsdapi
+49154/tcp open  unknown
+
+Nmap scan report for 10.103.22.121
+Host is up (0.00056s latency).
+Not shown: 996 filtered ports
+PORT      STATE SERVICE
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+3389/tcp  open  ms-wbt-server
+49155/tcp open  unknown
+
+Nmap scan report for 10.103.22.122
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.22.122 are filtered
+
+Nmap scan report for 10.103.22.123
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.123 are filtered
+
+Nmap scan report for 10.103.22.124
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.124 are filtered
+
+Nmap scan report for 10.103.22.125
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.125 are filtered
+
+Nmap scan report for 10.103.22.126
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.126 are filtered
+
+Nmap scan report for 10.103.22.127
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.22.127 are filtered
+
+Nmap scan report for 10.103.22.128
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.128 are filtered
+
+Nmap scan report for 10.103.22.129
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.129 are filtered
+
+Nmap scan report for 10.103.22.130
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.130 are filtered
+
+Nmap scan report for 10.103.22.131
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.131 are filtered
+
+Nmap scan report for 10.103.22.132
+Host is up (0.0046s latency).
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap scan report for 10.103.22.133
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.133 are filtered
+
+Nmap scan report for 10.103.22.134
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.134 are filtered
+
+Nmap scan report for 10.103.22.135
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.135 are filtered
+
+Nmap scan report for 10.103.22.136
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.136 are filtered
+
+Nmap scan report for 10.103.22.137
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.137 are filtered
+
+Nmap scan report for 10.103.22.138
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.22.138 are filtered
+
+Nmap scan report for 10.103.22.139
+Host is up (1.8s latency).
+All 1000 scanned ports on 10.103.22.139 are filtered
+
+Nmap scan report for 10.103.22.140
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.140 are filtered
+
+Nmap scan report for 10.103.22.141
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.141 are filtered
+
+Nmap scan report for 10.103.22.142
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.142 are filtered
+
+Nmap scan report for 10.103.22.143
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.143 are filtered
+
+Nmap scan report for 10.103.22.144
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.144 are filtered
+
+Nmap scan report for 10.103.22.145
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.145 are filtered
+
+Nmap scan report for 10.103.22.146
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.146 are filtered
+
+Nmap scan report for 10.103.22.147
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.147 are filtered
+
+Nmap scan report for 10.103.22.148
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.148 are filtered
+
+Nmap scan report for 10.103.22.149
+Host is up (0.00038s latency).
+Not shown: 792 closed ports, 202 filtered ports
+PORT      STATE SERVICE
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+49152/tcp open  unknown
+49153/tcp open  unknown
+49155/tcp open  unknown
+49163/tcp open  unknown
+
+Nmap scan report for 10.103.22.150
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.150 are filtered
+
+Nmap scan report for 10.103.22.151
+Host is up (2.2s latency).
+All 1000 scanned ports on 10.103.22.151 are filtered
+
+Nmap scan report for 10.103.22.152
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.22.152 are filtered
+
+Nmap scan report for 10.103.22.153
+Host is up (2.7s latency).
+Not shown: 990 filtered ports
+PORT      STATE  SERVICE
+1082/tcp  closed amt-esd-prot
+1100/tcp  closed mctp
+1132/tcp  closed kvm-via-ip
+1839/tcp  closed netopia-vo1
+2106/tcp  closed ekshell
+3001/tcp  closed nessus
+3052/tcp  closed powerchute
+7800/tcp  closed asr
+7937/tcp  closed nsrexecd
+31337/tcp closed Elite
+
+Nmap scan report for 10.103.22.154
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.154 are filtered
+
+Nmap scan report for 10.103.22.155
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.155 are filtered
+
+Nmap scan report for 10.103.22.156
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.156 are filtered
+
+Nmap scan report for 10.103.22.157
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.157 are filtered
+
+Nmap scan report for 10.103.22.158
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.158 are filtered
+
+Nmap scan report for 10.103.22.159
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.159 are filtered
+
+Nmap scan report for 10.103.22.160
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.160 are filtered
+
+Nmap scan report for 10.103.22.161
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.161 are filtered
+
+Nmap scan report for 10.103.22.162
+Host is up (0.0017s latency).
+Not shown: 993 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+443/tcp  open  https
+445/tcp  open  microsoft-ds
+1028/tcp open  unknown
+3389/tcp open  ms-wbt-server
+5357/tcp open  wsdapi
+
+Nmap scan report for 10.103.22.163
+Host is up (0.00061s latency).
+Not shown: 972 closed ports
+PORT      STATE    SERVICE
+1/tcp     filtered tcpmux
+80/tcp    open     http
+139/tcp   open     netbios-ssn
+306/tcp   filtered unknown
+515/tcp   open     printer
+543/tcp   filtered klogin
+593/tcp   filtered http-rpc-epmap
+711/tcp   filtered cisco-tdp
+722/tcp   filtered unknown
+749/tcp   filtered kerberos-adm
+1027/tcp  filtered IIS
+1064/tcp  filtered jstel
+1322/tcp  filtered novation
+1717/tcp  filtered fj-hdnet
+2045/tcp  filtered cdfunc
+2126/tcp  filtered pktcable-cops
+2399/tcp  filtered fmpro-fdal
+3869/tcp  filtered ovsam-mgmt
+5988/tcp  filtered wbem-http
+7911/tcp  filtered unknown
+9000/tcp  filtered cslistener
+9100/tcp  open     jetdirect
+9594/tcp  filtered msgsys
+10002/tcp open     documentum
+19283/tcp filtered keysrvr
+19801/tcp filtered unknown
+23502/tcp filtered unknown
+33354/tcp filtered unknown
+
+Nmap scan report for 10.103.22.164
+Host is up (2.6s latency).
+Not shown: 710 filtered ports, 287 closed ports
+PORT      STATE SERVICE
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+49154/tcp open  unknown
+
+Nmap scan report for 10.103.22.165
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.165 are filtered
+
+Nmap scan report for 10.103.22.166
+Host is up (2.2s latency).
+All 1000 scanned ports on 10.103.22.166 are filtered
+
+Nmap scan report for 10.103.22.167
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.167 are filtered
+
+Nmap scan report for 10.103.22.168
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.22.168 are filtered
+
+Nmap scan report for 10.103.22.169
+Host is up (2.2s latency).
+All 1000 scanned ports on 10.103.22.169 are filtered
+
+Nmap scan report for 10.103.22.170
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.170 are filtered
+
+Nmap scan report for 10.103.22.171
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.171 are filtered
+
+Nmap scan report for 10.103.22.172
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.172 are filtered
+
+Nmap scan report for 10.103.22.173
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.173 are filtered
+
+Nmap scan report for 10.103.22.174
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.174 are filtered
+
+Nmap scan report for 10.103.22.175
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.175 are filtered
+
+Nmap scan report for 10.103.22.176
+Host is up (0.00051s latency).
+All 1000 scanned ports on 10.103.22.176 are filtered (643) or closed (357)
+
+Nmap scan report for 10.103.22.177
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.177 are filtered
+
+Nmap scan report for 10.103.22.178
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.178 are filtered
+
+Nmap scan report for 10.103.22.179
+Host is up (2.2s latency).
+All 1000 scanned ports on 10.103.22.179 are filtered
+
+Nmap scan report for 10.103.22.180
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.180 are filtered
+
+Nmap scan report for 10.103.22.181
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.22.181 are filtered
+
+Nmap scan report for 10.103.22.182
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.182 are filtered
+
+Nmap scan report for 10.103.22.183
+Host is up (0.0036s latency).
+Not shown: 932 closed ports, 65 filtered ports
+PORT      STATE SERVICE
+33354/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+
+Nmap scan report for 10.103.22.184
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.184 are filtered
+
+Nmap scan report for 10.103.22.185
+Host is up (0.0016s latency).
+Not shown: 999 filtered ports
+PORT     STATE SERVICE
+5357/tcp open  wsdapi
+
+Nmap scan report for 10.103.22.186
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.186 are filtered
+
+Nmap scan report for 10.103.22.187
+Host is up (2.0s latency).
+Not shown: 998 filtered ports
+PORT     STATE  SERVICE
+1085/tcp closed webobjects
+2047/tcp open   dls
+
+Nmap scan report for 10.103.22.188
+Host is up (1.7s latency).
+All 1000 scanned ports on 10.103.22.188 are filtered
+
+Nmap scan report for 10.103.22.189
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.189 are filtered
+
+Nmap scan report for 10.103.22.190
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.190 are filtered
+
+Nmap scan report for 10.103.22.191
+Host is up (0.00025s latency).
+Not shown: 990 filtered ports
+PORT     STATE  SERVICE
+22/tcp   closed ssh
+80/tcp   open   http
+427/tcp  open   svrloc
+443/tcp  open   https
+902/tcp  open   iss-realsecure
+5988/tcp closed wbem-http
+5989/tcp open   wbem-https
+8000/tcp open   http-alt
+8100/tcp open   xprint-server
+8300/tcp closed tmi
+
+Nmap scan report for 10.103.22.192
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.192 are filtered
+
+Nmap scan report for 10.103.22.193
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.193 are filtered
+
+Nmap scan report for 10.103.22.194
+Host is up (1.9s latency).
+All 1000 scanned ports on 10.103.22.194 are filtered
+
+Nmap scan report for 10.103.22.195
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.195 are filtered
+
+Nmap scan report for 10.103.22.196
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.196 are filtered
+
+Nmap scan report for 10.103.22.197
+Host is up (1.6s latency).
+All 1000 scanned ports on 10.103.22.197 are filtered
+
+Nmap scan report for 10.103.22.198
+Host is up (2.0s latency).
+All 1000 scanned ports on 10.103.22.198 are filtered
+
+Nmap scan report for 10.103.22.199
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.199 are filtered
+
+Nmap scan report for 10.103.22.200
+Host is up (2.1s latency).
+All 1000 scanned ports on 10.103.22.200 are filtered
+
+Nmap scan report for 10.103.22.201
+Host is up (2.0s latency).
+All 1000 scanned ports on 10.103.22.201 are filtered
+
+Nmap scan report for 10.103.22.202
+Host is up (0.00097s latency).
+Not shown: 999 filtered ports
+PORT     STATE SERVICE
+5357/tcp open  wsdapi
+
+Nmap scan report for 10.103.22.203
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.203 are filtered
+
+Nmap scan report for 10.103.22.204
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.22.204 are filtered
+
+Nmap scan report for 10.103.22.205
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.22.205 are filtered
+
+Nmap scan report for 10.103.22.206
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.206 are filtered
+
+Nmap scan report for 10.103.22.207
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.207 are filtered
+
+Nmap scan report for 10.103.22.208
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.208 are filtered
+
+Nmap scan report for 10.103.22.209
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.209 are filtered
+
+Nmap scan report for 10.103.22.210
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.210 are filtered
+
+Nmap scan report for 10.103.22.211
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.211 are filtered
+
+Nmap scan report for 10.103.22.212
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.212 are filtered
+
+Nmap scan report for 10.103.22.213
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.213 are filtered
+
+Nmap scan report for 10.103.22.214
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.214 are filtered
+
+Nmap scan report for 10.103.22.215
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.215 are filtered
+
+Nmap scan report for 10.103.22.216
+Host is up (0.0031s latency).
+Not shown: 997 filtered ports
+PORT     STATE  SERVICE
+21/tcp   open   ftp
+2869/tcp closed icslap
+5678/tcp open   rrac
+
+Nmap scan report for 10.103.22.217
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.217 are filtered
+
+Nmap scan report for 10.103.22.218
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.218 are filtered
+
+Nmap scan report for 10.103.22.219
+Host is up (1.7s latency).
+All 1000 scanned ports on 10.103.22.219 are filtered
+
+Nmap scan report for 10.103.22.220
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.220 are filtered
+
+Nmap scan report for 10.103.22.221
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.22.221 are filtered
+
+Nmap scan report for 10.103.22.222
+Host is up (1.9s latency).
+All 1000 scanned ports on 10.103.22.222 are filtered
+
+Nmap scan report for 10.103.22.223
+Host is up (1.8s latency).
+All 1000 scanned ports on 10.103.22.223 are filtered
+
+Nmap scan report for 10.103.22.224
+Host is up (0.00026s latency).
+Not shown: 989 closed ports
+PORT      STATE    SERVICE
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+445/tcp   open     microsoft-ds
+1089/tcp  filtered ff-annunc
+1805/tcp  filtered enl-name
+5200/tcp  filtered targus-getdata
+5269/tcp  filtered xmpp-server
+6001/tcp  open     X11:1
+7007/tcp  filtered afs3-bos
+8086/tcp  filtered d-s-n
+49152/tcp open     unknown
+
+Nmap scan report for 10.103.22.225
+Host is up (1.7s latency).
+All 1000 scanned ports on 10.103.22.225 are filtered
+
+Nmap scan report for 10.103.22.226
+Host is up (1.8s latency).
+All 1000 scanned ports on 10.103.22.226 are filtered
+
+Nmap scan report for 10.103.22.227
+Host is up (0.0039s latency).
+Not shown: 971 closed ports
+PORT      STATE    SERVICE
+83/tcp    filtered mit-ml-dev
+88/tcp    filtered kerberos-sec
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+445/tcp   open     microsoft-ds
+648/tcp   filtered rrp
+801/tcp   filtered device
+1059/tcp  filtered nimreg
+1185/tcp  filtered catchpole
+2006/tcp  filtered invokator
+2399/tcp  filtered fmpro-fdal
+3003/tcp  filtered cgms
+3493/tcp  filtered nut
+5801/tcp  filtered vnc-http-1
+7070/tcp  filtered realserver
+7627/tcp  filtered soap-http
+8009/tcp  filtered ajp13
+8181/tcp  filtered unknown
+8383/tcp  filtered m2mservices
+10626/tcp filtered unknown
+11110/tcp filtered unknown
+13783/tcp filtered netbackup
+25735/tcp filtered unknown
+49152/tcp open     unknown
+49153/tcp open     unknown
+49154/tcp open     unknown
+49155/tcp open     unknown
+49157/tcp filtered unknown
+54045/tcp filtered unknown
+
+Nmap scan report for 10.103.22.228
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.228 are filtered
+
+Nmap scan report for 10.103.22.229
+Host is up (2.2s latency).
+All 1000 scanned ports on 10.103.22.229 are filtered
+
+Nmap scan report for 10.103.22.230
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.230 are filtered
+
+Nmap scan report for 10.103.22.231
+Host is up (0.00029s latency).
+Not shown: 801 closed ports, 194 filtered ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+1034/tcp  open  zincite-a
+6001/tcp  open  X11:1
+58080/tcp open  unknown
+
+Nmap scan report for 10.103.22.232
+Host is up (2.2s latency).
+All 1000 scanned ports on 10.103.22.232 are filtered
+
+Nmap scan report for 10.103.22.233
+Host is up (0.00090s latency).
+Not shown: 829 filtered ports, 170 closed ports
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for 10.103.22.234
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.22.234 are filtered
+
+Nmap scan report for 10.103.22.235
+Host is up (0.53s latency).
+All 1000 scanned ports on 10.103.22.235 are filtered
+
+Nmap scan report for 10.103.22.236
+Host is up (0.59s latency).
+All 1000 scanned ports on 10.103.22.236 are filtered
+
+Nmap scan report for 10.103.22.237
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.237 are filtered
+
+Nmap scan report for 10.103.22.238
+Host is up (0.00033s latency).
+Not shown: 962 closed ports
+PORT      STATE    SERVICE
+23/tcp    filtered telnet
+80/tcp    open     http
+81/tcp    open     hosts2-ns
+111/tcp   filtered rpcbind
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+389/tcp   open     ldap
+443/tcp   open     https
+445/tcp   open     microsoft-ds
+481/tcp   filtered dvs
+668/tcp   filtered mecomm
+749/tcp   filtered kerberos-adm
+995/tcp   filtered pop3s
+1031/tcp  filtered iad2
+1055/tcp  filtered ansyslmd
+1658/tcp  filtered sixnetudr
+1972/tcp  filtered intersys-cache
+2045/tcp  filtered cdfunc
+2106/tcp  filtered ekshell
+2144/tcp  filtered lv-ffx
+2383/tcp  filtered ms-olap4
+2605/tcp  filtered bgpd
+3389/tcp  filtered ms-wbt-server
+4899/tcp  filtered radmin
+7443/tcp  filtered oracleas-https
+8009/tcp  open     ajp13
+8080/tcp  open     http-proxy
+8400/tcp  filtered cvd
+8443/tcp  open     https-alt
+9101/tcp  filtered jetdirect
+9900/tcp  filtered iua
+20005/tcp filtered btx
+49152/tcp open     unknown
+49153/tcp open     unknown
+49154/tcp open     unknown
+49155/tcp open     unknown
+49175/tcp open     unknown
+49176/tcp open     unknown
+
+Nmap scan report for 10.103.22.239
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.239 are filtered
+
+Nmap scan report for 10.103.22.240
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.240 are filtered
+
+Nmap scan report for 10.103.22.241
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.22.241 are filtered
+
+Nmap scan report for 10.103.22.242
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.242 are filtered
+
+Nmap scan report for 10.103.22.243
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.243 are filtered
+
+Nmap scan report for 10.103.22.244
+Host is up (2.0s latency).
+All 1000 scanned ports on 10.103.22.244 are filtered
+
+Nmap scan report for 10.103.22.245
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.245 are filtered
+
+Nmap scan report for 10.103.22.246
+Host is up (0.00039s latency).
+Not shown: 984 closed ports
+PORT      STATE    SERVICE
+135/tcp   filtered msrpc
+726/tcp   filtered unknown
+903/tcp   filtered iss-console-mgr
+1720/tcp  filtered H.323/Q.931
+2288/tcp  filtered netml
+2968/tcp  filtered enpp
+3260/tcp  filtered iscsi
+4848/tcp  filtered appserv-http
+7778/tcp  filtered interwise
+7800/tcp  filtered asr
+8888/tcp  filtered sun-answerbook
+9010/tcp  filtered sdr
+14442/tcp filtered unknown
+32769/tcp filtered filenet-rpc
+49165/tcp filtered unknown
+55056/tcp filtered unknown
+
+Nmap scan report for 10.103.22.247
+Host is up (1.5s latency).
+All 1000 scanned ports on 10.103.22.247 are filtered
+
+Nmap scan report for 10.103.22.248
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.248 are filtered
+
+Nmap scan report for 10.103.22.249
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.22.249 are filtered
+
+Nmap scan report for 10.103.22.250
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.22.250 are filtered
+
+Nmap scan report for 10.103.22.251
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.22.251 are filtered
+
+Nmap scan report for 10.103.22.252
+Host is up (0.031s latency).
+All 1000 scanned ports on 10.103.22.252 are filtered
+
+Nmap scan report for 10.103.22.253
+Host is up (0.00074s latency).
+Not shown: 975 closed ports
+PORT      STATE    SERVICE
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+443/tcp   open     https
+445/tcp   open     microsoft-ds
+902/tcp   open     iss-realsecure
+912/tcp   open     apex-mesh
+1025/tcp  open     NFS-or-IIS
+1026/tcp  open     LSA-or-nterm
+1027/tcp  open     IIS
+1028/tcp  open     unknown
+1030/tcp  open     iad1
+1031/tcp  open     iad2
+1038/tcp  filtered mtqp
+1104/tcp  filtered xrl
+1234/tcp  filtered hotline
+3580/tcp  open     nati-svrloc
+3801/tcp  filtered ibm-mgr
+6779/tcp  filtered unknown
+6881/tcp  filtered bittorrent-tracker
+7778/tcp  filtered interwise
+8082/tcp  filtered blackice-alerts
+9200/tcp  filtered wap-wsp
+18101/tcp filtered unknown
+40193/tcp filtered unknown
+52848/tcp filtered unknown
+
+Nmap scan report for 10.103.22.254
+Host is up (2.0s latency).
+All 1000 scanned ports on 10.103.22.254 are filtered
+
+Nmap scan report for 10.103.22.255
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.22.255 are filtered
+
+Nmap scan report for 10.103.23.0
+Host is up (0.00041s latency).
+Not shown: 998 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+
+Nmap scan report for 10.103.23.1
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.1 are filtered
+
+Nmap scan report for 10.103.23.2
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.2 are filtered
+
+Nmap scan report for 10.103.23.3
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.3 are filtered
+
+Nmap scan report for 10.103.23.4
+Host is up (0.00046s latency).
+Not shown: 989 filtered ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+515/tcp   open  printer
+1688/tcp  open  nsjtp-data
+1801/tcp  open  msmq
+1947/tcp  open  sentinelsrm
+2103/tcp  open  zephyr-clt
+2105/tcp  open  eklogin
+2107/tcp  open  msmq-mgmt
+27000/tcp open  flexlm0
+
+Nmap scan report for 10.103.23.5
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.5 are filtered
+
+Nmap scan report for 10.103.23.6
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.6 are filtered
+
+Nmap scan report for 10.103.23.7
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.7 are filtered
+
+Nmap scan report for 10.103.23.8
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.8 are filtered
+
+Nmap scan report for 10.103.23.9
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.9 are filtered
+
+Nmap scan report for 10.103.23.10
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.10 are filtered
+
+Nmap scan report for 10.103.23.11
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.11 are filtered
+
+Nmap scan report for 10.103.23.12
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.12 are filtered
+
+Nmap scan report for 10.103.23.13
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.13 are filtered
+
+Nmap scan report for 10.103.23.14
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.14 are filtered
+
+Nmap scan report for 10.103.23.15
+Host is up (0.0012s latency).
+Not shown: 971 closed ports
+PORT      STATE    SERVICE
+20/tcp    filtered ftp-data
+24/tcp    filtered priv-mail
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+445/tcp   open     microsoft-ds
+544/tcp   filtered kshell
+648/tcp   filtered rrp
+1021/tcp  filtered exp1
+1022/tcp  filtered exp2
+1322/tcp  filtered novation
+1688/tcp  open     nsjtp-data
+1864/tcp  filtered paradym-31
+2038/tcp  filtered objectmanager
+2604/tcp  filtered ospfd
+3580/tcp  open     nati-svrloc
+5718/tcp  filtered dpm
+6156/tcp  filtered unknown
+7100/tcp  filtered font-service
+8080/tcp  open     http-proxy
+8087/tcp  filtered simplifymedia
+8652/tcp  filtered unknown
+9595/tcp  filtered pds
+10024/tcp filtered unknown
+16993/tcp filtered amt-soap-https
+30718/tcp filtered unknown
+49152/tcp open     unknown
+49153/tcp open     unknown
+49154/tcp open     unknown
+54045/tcp filtered unknown
+
+Nmap scan report for 10.103.23.16
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.16 are filtered
+
+Nmap scan report for 10.103.23.17
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.17 are filtered
+
+Nmap scan report for 10.103.23.18
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.18 are filtered
+
+Nmap scan report for 10.103.23.19
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.19 are filtered
+
+Nmap scan report for 10.103.23.20
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.20 are filtered
+
+Nmap scan report for 10.103.23.21
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.21 are filtered
+
+Nmap scan report for 10.103.23.22
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.22 are filtered
+
+Nmap scan report for 10.103.23.23
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.23 are filtered
+
+Nmap scan report for 10.103.23.24
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.24 are filtered
+
+Nmap scan report for 10.103.23.25
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.25 are filtered
+
+Nmap scan report for 10.103.23.26
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.26 are filtered
+
+Nmap scan report for 10.103.23.27
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.27 are filtered
+
+Nmap scan report for 10.103.23.28
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.28 are filtered
+
+Nmap scan report for 10.103.23.29
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.29 are filtered
+
+Nmap scan report for 10.103.23.30
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.30 are filtered
+
+Nmap scan report for 10.103.23.31
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.31 are filtered
+
+Nmap scan report for 10.103.23.32
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.32 are filtered
+
+Nmap scan report for 10.103.23.33
+Host is up (0.00032s latency).
+Not shown: 988 closed ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1025/tcp open  NFS-or-IIS
+1026/tcp open  LSA-or-nterm
+1027/tcp open  IIS
+1030/tcp open  iad1
+1031/tcp open  iad2
+1032/tcp open  iad3
+3389/tcp open  ms-wbt-server
+5357/tcp open  wsdapi
+6001/tcp open  X11:1
+
+Nmap scan report for 10.103.23.34
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.34 are filtered
+
+Nmap scan report for 10.103.23.35
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.35 are filtered
+
+Nmap scan report for 10.103.23.36
+Host is up (0.0015s latency).
+Not shown: 924 closed ports, 63 filtered ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+2301/tcp  open  compaqdiag
+2381/tcp  open  compaq-https
+3389/tcp  open  ms-wbt-server
+5800/tcp  open  vnc-http
+5900/tcp  open  vnc
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49165/tcp open  unknown
+49167/tcp open  unknown
+
+Nmap scan report for 10.103.23.37
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.37 are filtered
+
+Nmap scan report for 10.103.23.38
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.38 are filtered
+
+Nmap scan report for 10.103.23.39
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.39 are filtered
+
+Nmap scan report for 10.103.23.40
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.40 are filtered
+
+Nmap scan report for 10.103.23.41
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.41 are filtered
+
+Nmap scan report for 10.103.23.42
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.42 are filtered
+
+Nmap scan report for 10.103.23.43
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.43 are filtered
+
+Nmap scan report for 10.103.23.44
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.44 are filtered
+
+Nmap scan report for 10.103.23.45
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.23.45 are filtered
+
+Nmap scan report for 10.103.23.46
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.23.46 are filtered
+
+Nmap scan report for 10.103.23.47
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.23.47 are filtered
+
+Nmap scan report for 10.103.23.48
+Host is up (0.020s latency).
+Not shown: 999 filtered ports
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 10.103.23.49
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.23.49 are filtered
+
+Nmap scan report for 10.103.23.50
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.50 are filtered
+
+Nmap scan report for 10.103.23.51
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.23.51 are filtered
+
+Nmap scan report for 10.103.23.52
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.23.52 are filtered
+
+Nmap scan report for 10.103.23.53
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.23.53 are filtered
+
+Nmap scan report for 10.103.23.54
+Host is up (0.00080s latency).
+Not shown: 997 filtered ports
+PORT     STATE  SERVICE
+80/tcp   open   http
+1900/tcp open   upnp
+1971/tcp closed netop-school
+
+Nmap scan report for 10.103.23.55
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.23.55 are filtered
+
+Nmap scan report for 10.103.23.56
+Host is up (0.00045s latency).
+Not shown: 976 closed ports
+PORT      STATE    SERVICE
+20/tcp    filtered ftp-data
+22/tcp    open     ssh
+26/tcp    filtered rsftp
+900/tcp   filtered omginitialrefs
+1000/tcp  filtered cadlock
+1022/tcp  filtered exp2
+1071/tcp  filtered bsquare-voip
+1093/tcp  filtered proofd
+1935/tcp  filtered rtmp
+2006/tcp  filtered invokator
+2033/tcp  filtered glogger
+2038/tcp  filtered objectmanager
+4899/tcp  filtered radmin
+5080/tcp  filtered onscreen
+5280/tcp  filtered xmpp-bosh
+5915/tcp  filtered unknown
+6123/tcp  filtered backup-express
+7100/tcp  filtered font-service
+9103/tcp  filtered jetdirect
+9110/tcp  filtered unknown
+9595/tcp  filtered pds
+16993/tcp filtered amt-soap-https
+23502/tcp filtered unknown
+50500/tcp filtered unknown
+
+Nmap scan report for 10.103.23.57
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.57 are filtered
+
+Nmap scan report for 10.103.23.58
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.58 are filtered
+
+Nmap scan report for 10.103.23.59
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.59 are filtered
+
+Nmap scan report for 10.103.23.60
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.60 are filtered
+
+Nmap scan report for 10.103.23.61
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.61 are filtered
+
+Nmap scan report for 10.103.23.62
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.62 are filtered
+
+Nmap scan report for 10.103.23.63
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.63 are filtered
+
+Nmap scan report for 10.103.23.64
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.64 are filtered
+
+Nmap scan report for 10.103.23.65
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.23.65 are filtered
+
+Nmap scan report for 10.103.23.66
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.66 are filtered
+
+Nmap scan report for 10.103.23.67
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.67 are filtered
+
+Nmap scan report for 10.103.23.68
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.68 are filtered
+
+Nmap scan report for 10.103.23.69
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.69 are filtered
+
+Nmap scan report for 10.103.23.70
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.70 are filtered
+
+Nmap scan report for 10.103.23.71
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.71 are filtered
+
+Nmap scan report for 10.103.23.72
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.72 are filtered
+
+Nmap scan report for 10.103.23.73
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.73 are filtered
+
+Nmap scan report for 10.103.23.74
+Host is up (0.0021s latency).
+Not shown: 988 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+3389/tcp open  ms-wbt-server
+5800/tcp open  vnc-http
+5801/tcp open  vnc-http-1
+5802/tcp open  vnc-http-2
+5900/tcp open  vnc
+5901/tcp open  vnc-1
+5902/tcp open  vnc-2
+5910/tcp open  cm
+5911/tcp open  cpdlc
+9000/tcp open  cslistener
+9001/tcp open  tor-orport
+
+Nmap scan report for 10.103.23.75
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.75 are filtered
+
+Nmap scan report for 10.103.23.76
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.76 are filtered
+
+Nmap scan report for 10.103.23.77
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.77 are filtered
+
+Nmap scan report for 10.103.23.78
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.23.78 are filtered
+
+Nmap scan report for 10.103.23.79
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.23.79 are filtered
+
+Nmap scan report for 10.103.23.80
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.23.80 are filtered
+
+Nmap scan report for 10.103.23.81
+Host is up (2.1s latency).
+All 1000 scanned ports on 10.103.23.81 are filtered
+
+Nmap scan report for 10.103.23.82
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.23.82 are filtered
+
+Nmap scan report for 10.103.23.83
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.23.83 are filtered
+
+Nmap scan report for 10.103.23.84
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.84 are filtered
+
+Nmap scan report for 10.103.23.85
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.85 are filtered
+
+Nmap scan report for 10.103.23.86
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.23.86 are filtered
+
+Nmap scan report for 10.103.23.87
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.23.87 are filtered
+
+Nmap scan report for 10.103.23.88
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.23.88 are filtered
+
+Nmap scan report for 10.103.23.89
+Host is up (0.0018s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+5357/tcp open  wsdapi
+6001/tcp open  X11:1
+
+Nmap scan report for 10.103.23.90
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.23.90 are filtered
+
+Nmap scan report for 10.103.23.91
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.91 are filtered
+
+Nmap scan report for 10.103.23.92
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.23.92 are filtered
+
+Nmap scan report for 10.103.23.93
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.23.93 are filtered
+
+Nmap scan report for 10.103.23.94
+Host is up (0.0025s latency).
+Not shown: 995 filtered ports
+PORT     STATE SERVICE
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1723/tcp open  pptp
+3389/tcp open  ms-wbt-server
+5357/tcp open  wsdapi
+
+Nmap scan report for 10.103.23.95
+Host is up (0.0020s latency).
+Not shown: 931 closed ports, 67 filtered ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+5800/tcp open  vnc-http
+
+Nmap scan report for 10.103.23.96
+Host is up (0.00012s latency).
+Not shown: 991 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3389/tcp open  ms-wbt-server
+5800/tcp open  vnc-http
+5801/tcp open  vnc-http-1
+5900/tcp open  vnc
+5901/tcp open  vnc-1
+5910/tcp open  cm
+
+Nmap scan report for 10.103.23.97
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.97 are filtered
+
+Nmap scan report for 10.103.23.98
+Host is up (0.0012s latency).
+Not shown: 978 closed ports
+PORT      STATE    SERVICE
+33/tcp    filtered dsp
+648/tcp   filtered rrp
+711/tcp   filtered cisco-tdp
+898/tcp   filtered sun-manageconsole
+1027/tcp  filtered IIS
+1061/tcp  filtered kiosk
+1086/tcp  filtered cplscrambler-lg
+1287/tcp  filtered routematch
+1862/tcp  filtered mysql-cm-agent
+3827/tcp  filtered netmpi
+3871/tcp  filtered avocent-adsap
+3920/tcp  filtered exasoftport1
+5903/tcp  filtered vnc-3
+5910/tcp  filtered cm
+6000/tcp  filtered X11
+6005/tcp  filtered X11:5
+7435/tcp  filtered unknown
+8081/tcp  filtered blackice-icecap
+9001/tcp  filtered tor-orport
+9050/tcp  filtered tor-socks
+16018/tcp filtered unknown
+17877/tcp filtered unknown
+
+Nmap scan report for 10.103.23.99
+Host is up (0.0023s latency).
+Not shown: 991 filtered ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+443/tcp  open  https
+445/tcp  open  microsoft-ds
+902/tcp  open  iss-realsecure
+1028/tcp open  unknown
+3389/tcp open  ms-wbt-server
+5357/tcp open  wsdapi
+
+Nmap scan report for 10.103.23.100
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.23.100 are filtered
+
+Nmap scan report for 10.103.23.101
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.23.101 are filtered
+
+Nmap scan report for 10.103.23.102
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.23.102 are filtered
+
+Nmap scan report for 10.103.23.103
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.23.103 are filtered
+
+Nmap scan report for 10.103.23.104
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.23.104 are filtered
+
+Nmap scan report for 10.103.23.105
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.23.105 are filtered
+
+Nmap scan report for 10.103.23.106
+Host is up (0.0012s latency).
+Not shown: 994 filtered ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1723/tcp open  pptp
+3389/tcp open  ms-wbt-server
+3690/tcp open  svn
+
+Nmap scan report for 10.103.23.107
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.107 are filtered
+
+Nmap scan report for 10.103.23.108
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.108 are filtered
+
+Nmap scan report for 10.103.23.109
+Host is up (0.0018s latency).
+Not shown: 981 closed ports
+PORT      STATE    SERVICE
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+443/tcp   open     https
+445/tcp   open     microsoft-ds
+902/tcp   open     iss-realsecure
+912/tcp   open     apex-mesh
+1935/tcp  open     rtmp
+3389/tcp  open     ms-wbt-server
+3580/tcp  open     nati-svrloc
+6001/tcp  open     X11:1
+8080/tcp  open     http-proxy
+16993/tcp filtered amt-soap-https
+27000/tcp open     flexlm0
+31038/tcp filtered unknown
+49152/tcp open     unknown
+49153/tcp open     unknown
+49154/tcp open     unknown
+49155/tcp open     unknown
+49156/tcp open     unknown
+
+Nmap scan report for 10.103.23.110
+Host is up (0.24s latency).
+All 1000 scanned ports on 10.103.23.110 are filtered
+
+Nmap scan report for 10.103.23.111
+Host is up (0.00094s latency).
+Not shown: 998 filtered ports
+PORT     STATE SERVICE
+3580/tcp open  nati-svrloc
+8080/tcp open  http-proxy
+
+Nmap scan report for 10.103.23.112
+Host is up (2.2s latency).
+All 1000 scanned ports on 10.103.23.112 are filtered
+
+Nmap scan report for 10.103.23.113
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.113 are filtered
+
+Nmap scan report for 10.103.23.114
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.114 are filtered
+
+Nmap scan report for 10.103.23.115
+Host is up (0.00074s latency).
+Not shown: 998 filtered ports
+PORT     STATE SERVICE
+3306/tcp open  mysql
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 10.103.23.116
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.116 are filtered
+
+Nmap scan report for 10.103.23.117
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.117 are filtered
+
+Nmap scan report for 10.103.23.118
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.118 are filtered
+
+Nmap scan report for 10.103.23.119
+Host is up (2.0s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1947/tcp open  sentinelsrm
+
+Nmap scan report for 10.103.23.120
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.23.120 are filtered
+
+Nmap scan report for 10.103.23.121
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.121 are filtered
+
+Nmap scan report for 10.103.23.122
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.122 are filtered
+
+Nmap scan report for 10.103.23.123
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.123 are filtered
+
+Nmap scan report for 10.103.23.124
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.124 are filtered
+
+Nmap scan report for 10.103.23.125
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.125 are filtered
+
+Nmap scan report for 10.103.23.126
+Host is up (0.00038s latency).
+Not shown: 968 closed ports
+PORT      STATE    SERVICE
+4/tcp     filtered unknown
+33/tcp    filtered dsp
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+222/tcp   filtered rsh-spx
+445/tcp   open     microsoft-ds
+646/tcp   filtered ldp
+1063/tcp  filtered kyoceranetdev
+1092/tcp  filtered obrpd
+1111/tcp  filtered lmsocialserver
+1641/tcp  filtered invision
+2383/tcp  filtered ms-olap4
+2869/tcp  open     icslap
+5357/tcp  open     wsdapi
+5800/tcp  filtered vnc-http
+5989/tcp  filtered wbem-https
+6646/tcp  open     unknown
+8081/tcp  filtered blackice-icecap
+8383/tcp  filtered m2mservices
+17988/tcp filtered unknown
+19315/tcp filtered keyshadow
+20222/tcp filtered ipulse-ics
+20828/tcp filtered unknown
+32777/tcp filtered sometimes-rpc17
+44176/tcp filtered unknown
+49152/tcp open     unknown
+49153/tcp open     unknown
+49154/tcp open     unknown
+49155/tcp open     unknown
+49163/tcp open     unknown
+49999/tcp filtered unknown
+50001/tcp filtered unknown
+
+Nmap scan report for 10.103.23.127
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.127 are filtered
+
+Nmap scan report for 10.103.23.128
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.128 are filtered
+
+Nmap scan report for 10.103.23.129
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.129 are filtered
+
+Nmap scan report for 10.103.23.130
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.130 are filtered
+
+Nmap scan report for 10.103.23.131
+Host is up (0.00038s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap scan report for 10.103.23.132
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.132 are filtered
+
+Nmap scan report for 10.103.23.133
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.133 are filtered
+
+Nmap scan report for 10.103.23.134
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.134 are filtered
+
+Nmap scan report for 10.103.23.135
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.135 are filtered
+
+Nmap scan report for 10.103.23.136
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.136 are filtered
+
+Nmap scan report for 10.103.23.137
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.137 are filtered
+
+Nmap scan report for 10.103.23.138
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.138 are filtered
+
+Nmap scan report for 10.103.23.139
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.139 are filtered
+
+Nmap scan report for 10.103.23.140
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.140 are filtered
+
+Nmap scan report for 10.103.23.141
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.141 are filtered
+
+Nmap scan report for 10.103.23.142
+Host is up (0.0017s latency).
+Not shown: 931 closed ports, 57 filtered ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+843/tcp   open  unknown
+3389/tcp  open  ms-wbt-server
+5678/tcp  open  rrac
+6059/tcp  open  X11:59
+7000/tcp  open  afs3-fileserver
+9000/tcp  open  cslistener
+10000/tcp open  snet-sensor-mgmt
+49156/tcp open  unknown
+49160/tcp open  unknown
+
+Nmap scan report for 10.103.23.143
+Host is up (0.0011s latency).
+Not shown: 822 closed ports, 171 filtered ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+5357/tcp  open  wsdapi
+49154/tcp open  unknown
+49158/tcp open  unknown
+49159/tcp open  unknown
+
+Nmap scan report for 10.103.23.144
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.144 are filtered
+
+Nmap scan report for 10.103.23.145
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.145 are filtered
+
+Nmap scan report for 10.103.23.146
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.146 are filtered
+
+Nmap scan report for 10.103.23.147
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.147 are filtered
+
+Nmap scan report for 10.103.23.148
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.148 are filtered
+
+Nmap scan report for 10.103.23.149
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.149 are filtered
+
+Nmap scan report for 10.103.23.150
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.23.150 are filtered
+
+Nmap scan report for 10.103.23.151
+Host is up (0.00050s latency).
+Not shown: 993 filtered ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+843/tcp   open  unknown
+7000/tcp  open  afs3-fileserver
+8000/tcp  open  http-alt
+49155/tcp open  unknown
+
+Nmap scan report for 10.103.23.152
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.152 are filtered
+
+Nmap scan report for 10.103.23.153
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.153 are filtered
+
+Nmap scan report for 10.103.23.154
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.154 are filtered
+
+Nmap scan report for 10.103.23.155
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.155 are filtered
+
+Nmap scan report for 10.103.23.156
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.156 are filtered
+
+Nmap scan report for 10.103.23.157
+Host is up (0.00089s latency).
+Not shown: 988 closed ports
+PORT      STATE    SERVICE
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+445/tcp   open     microsoft-ds
+1147/tcp  filtered capioverlan
+2008/tcp  filtered conf
+49152/tcp open     unknown
+49153/tcp open     unknown
+49154/tcp open     unknown
+49156/tcp open     unknown
+49157/tcp open     unknown
+49158/tcp open     unknown
+49159/tcp open     unknown
+
+Nmap scan report for 10.103.23.158
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.158 are filtered
+
+Nmap scan report for 10.103.23.159
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.159 are filtered
+
+Nmap scan report for 10.103.23.160
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.160 are filtered
+
+Nmap scan report for 10.103.23.161
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.161 are filtered
+
+Nmap scan report for 10.103.23.162
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.162 are filtered
+
+Nmap scan report for 10.103.23.163
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.163 are filtered
+
+Nmap scan report for 10.103.23.164
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.164 are filtered
+
+Nmap scan report for 10.103.23.165
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.165 are filtered
+
+Nmap scan report for 10.103.23.166
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.166 are filtered
+
+Nmap scan report for 10.103.23.167
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.167 are filtered
+
+Nmap scan report for 10.103.23.168
+Host is up (0.0013s latency).
+Not shown: 994 filtered ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+443/tcp   open  https
+445/tcp   open  microsoft-ds
+912/tcp   open  apex-mesh
+49154/tcp open  unknown
+
+Nmap scan report for 10.103.23.169
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.169 are filtered
+
+Nmap scan report for 10.103.23.170
+Host is up (2.0s latency).
+Not shown: 999 filtered ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+
+Nmap scan report for 10.103.23.171
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.171 are filtered
+
+Nmap scan report for 10.103.23.172
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.172 are filtered
+
+Nmap scan report for 10.103.23.173
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.173 are filtered
+
+Nmap scan report for 10.103.23.174
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.174 are filtered
+
+Nmap scan report for 10.103.23.175
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.175 are filtered
+
+Nmap scan report for 10.103.23.176
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.176 are filtered
+
+Nmap scan report for 10.103.23.177
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.177 are filtered
+
+Nmap scan report for 10.103.23.178
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.178 are filtered
+
+Nmap scan report for 10.103.23.179
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.179 are filtered
+
+Nmap scan report for 10.103.23.180
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.180 are filtered
+
+Nmap scan report for 10.103.23.181
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.181 are filtered
+
+Nmap scan report for 10.103.23.182
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.182 are filtered
+
+Nmap scan report for 10.103.23.183
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.183 are filtered
+
+Nmap scan report for 10.103.23.184
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.184 are filtered
+
+Nmap scan report for 10.103.23.185
+Host is up (0.0019s latency).
+Not shown: 999 filtered ports
+PORT     STATE SERVICE
+8082/tcp open  blackice-alerts
+
+Nmap scan report for 10.103.23.186
+Host is up (0.00044s latency).
+Not shown: 989 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+1688/tcp  open  nsjtp-data
+3389/tcp  open  ms-wbt-server
+5678/tcp  open  rrac
+10000/tcp open  snet-sensor-mgmt
+49152/tcp open  unknown
+49155/tcp open  unknown
+49156/tcp open  unknown
+49159/tcp open  unknown
+
+Nmap scan report for 10.103.23.187
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.187 are filtered
+
+Nmap scan report for 10.103.23.188
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.23.188 are filtered
+
+Nmap scan report for 10.103.23.189
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.189 are filtered
+
+Nmap scan report for 10.103.23.190
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.190 are filtered
+
+Nmap scan report for 10.103.23.191
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.191 are filtered
+
+Nmap scan report for 10.103.23.192
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.23.192 are filtered
+
+Nmap scan report for 10.103.23.193
+Host is up (0.0011s latency).
+Not shown: 987 closed ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1025/tcp open  NFS-or-IIS
+1026/tcp open  LSA-or-nterm
+1027/tcp open  IIS
+1028/tcp open  unknown
+1030/tcp open  iad1
+1031/tcp open  iad2
+1033/tcp open  netinfo
+3306/tcp open  mysql
+3389/tcp open  ms-wbt-server
+6001/tcp open  X11:1
+
+Nmap scan report for 10.103.23.194
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.194 are filtered
+
+Nmap scan report for 10.103.23.195
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.23.195 are filtered
+
+Nmap scan report for 10.103.23.196
+Host is up (2.7s latency).
+All 1000 scanned ports on 10.103.23.196 are filtered
+
+Nmap scan report for 10.103.23.197
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.23.197 are filtered
+
+Nmap scan report for 10.103.23.198
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.198 are filtered
+
+Nmap scan report for 10.103.23.199
+Host is up (0.00045s latency).
+Not shown: 994 closed ports
+PORT     STATE SERVICE
+80/tcp   open  http
+515/tcp  open  printer
+631/tcp  open  ipp
+8080/tcp open  http-proxy
+8290/tcp open  unknown
+9100/tcp open  jetdirect
+
+Nmap scan report for 10.103.23.200
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.200 are filtered
+
+Nmap scan report for 10.103.23.201
+Host is up (2.3s latency).
+All 1000 scanned ports on 10.103.23.201 are filtered
+
+Nmap scan report for 10.103.23.202
+Host is up (0.0021s latency).
+Not shown: 993 closed ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+443/tcp  open  https
+445/tcp  open  microsoft-ds
+902/tcp  open  iss-realsecure
+912/tcp  open  apex-mesh
+1033/tcp open  netinfo
+
+Nmap scan report for 10.103.23.203
+Host is up (2.0s latency).
+All 1000 scanned ports on 10.103.23.203 are filtered
+
+Nmap scan report for 10.103.23.204
+Host is up (0.0014s latency).
+Not shown: 990 filtered ports
+PORT      STATE SERVICE
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+2103/tcp  open  zephyr-clt
+2105/tcp  open  eklogin
+2107/tcp  open  msmq-mgmt
+3580/tcp  open  nati-svrloc
+5357/tcp  open  wsdapi
+5678/tcp  open  rrac
+8080/tcp  open  http-proxy
+10000/tcp open  snet-sensor-mgmt
+
+Nmap scan report for 10.103.23.205
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.23.205 are filtered
+
+Nmap scan report for 10.103.23.206
+Host is up (0.00092s latency).
+Not shown: 989 filtered ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+3389/tcp  open  ms-wbt-server
+3580/tcp  open  nati-svrloc
+6002/tcp  open  X11:2
+7001/tcp  open  afs3-callback
+7002/tcp  open  afs3-prserver
+10243/tcp open  unknown
+
+Nmap scan report for 10.103.23.207
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.23.207 are filtered
+
+Nmap scan report for 10.103.23.208
+Host is up (2.0s latency).
+All 1000 scanned ports on 10.103.23.208 are filtered
+
+Nmap scan report for 10.103.23.209
+Host is up (0.00022s latency).
+Not shown: 995 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+3260/tcp open  iscsi
+3389/tcp open  ms-wbt-server
+8080/tcp open  http-proxy
+
+Nmap scan report for 10.103.23.210
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.23.210 are filtered
+
+Nmap scan report for 10.103.23.211
+Host is up (2.6s latency).
+All 1000 scanned ports on 10.103.23.211 are filtered
+
+Nmap scan report for 10.103.23.212
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.23.212 are filtered
+
+Nmap scan report for 10.103.23.213
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.213 are filtered
+
+Nmap scan report for 10.103.23.214
+Host is up (2.4s latency).
+All 1000 scanned ports on 10.103.23.214 are filtered
+
+Nmap scan report for 10.103.23.215
+Host is up (0.00054s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+2869/tcp open  icslap
+3389/tcp open  ms-wbt-server
+
+Nmap scan report for 10.103.23.216
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.23.216 are filtered
+
+Nmap scan report for 10.103.23.217
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.23.217 are filtered
+
+Nmap scan report for 10.103.23.218
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.218 are filtered
+
+Nmap scan report for 10.103.23.219
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.23.219 are filtered
+
+Nmap scan report for 10.103.23.220
+Host is up (0.20s latency).
+All 1000 scanned ports on 10.103.23.220 are filtered
+
+Nmap scan report for 10.103.23.221
+Host is up (0.00037s latency).
+Not shown: 996 filtered ports
+PORT     STATE  SERVICE
+139/tcp  open   netbios-ssn
+445/tcp  open   microsoft-ds
+2869/tcp closed icslap
+3389/tcp open   ms-wbt-server
+
+Nmap scan report for 10.103.23.222
+Host is up (1.9s latency).
+All 1000 scanned ports on 10.103.23.222 are filtered
+
+Nmap scan report for 10.103.23.223
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.223 are filtered
+
+Nmap scan report for 10.103.23.224
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.224 are filtered
+
+Nmap scan report for 10.103.23.225
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.225 are filtered
+
+Nmap scan report for 10.103.23.226
+Host is up (0.00027s latency).
+Not shown: 979 closed ports
+PORT      STATE    SERVICE
+80/tcp    open     http
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+445/tcp   open     microsoft-ds
+1025/tcp  open     NFS-or-IIS
+1026/tcp  filtered LSA-or-nterm
+1031/tcp  open     iad2
+1079/tcp  filtered asprovatalk
+1521/tcp  filtered oracle
+1947/tcp  filtered sentinelsrm
+2004/tcp  filtered mailbox
+2383/tcp  open     ms-olap4
+2710/tcp  filtered sso-service
+3389/tcp  open     ms-wbt-server
+5000/tcp  filtered upnp
+6112/tcp  filtered dtspc
+6543/tcp  filtered mythtv
+8089/tcp  filtered unknown
+8180/tcp  filtered unknown
+49152/tcp open     unknown
+50002/tcp filtered iiimsf
+
+Nmap scan report for 10.103.23.227
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.227 are filtered
+
+Nmap scan report for 10.103.23.228
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.228 are filtered
+
+Nmap scan report for 10.103.23.229
+Host is up (0.00047s latency).
+Not shown: 666 filtered ports, 333 closed ports
+PORT    STATE SERVICE
+135/tcp open  msrpc
+
+Nmap scan report for 10.103.23.230
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.230 are filtered
+
+Nmap scan report for 10.103.23.231
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.231 are filtered
+
+Nmap scan report for 10.103.23.232
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.232 are filtered
+
+Nmap scan report for 10.103.23.233
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.233 are filtered
+
+Nmap scan report for 10.103.23.234
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.234 are filtered
+
+Nmap scan report for 10.103.23.235
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.235 are filtered
+
+Nmap scan report for 10.103.23.236
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.236 are filtered
+
+Nmap scan report for 10.103.23.237
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.237 are filtered
+
+Nmap scan report for 10.103.23.238
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.238 are filtered
+
+Nmap scan report for 10.103.23.239
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.239 are filtered
+
+Nmap scan report for 10.103.23.240
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.240 are filtered
+
+Nmap scan report for 10.103.23.241
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.241 are filtered
+
+Nmap scan report for 10.103.23.242
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.242 are filtered
+
+Nmap scan report for 10.103.23.243
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.243 are filtered
+
+Nmap scan report for 10.103.23.244
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.244 are filtered
+
+Nmap scan report for 10.103.23.245
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.245 are filtered
+
+Nmap scan report for 10.103.23.246
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.246 are filtered
+
+Nmap scan report for 10.103.23.247
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.247 are filtered
+
+Nmap scan report for 10.103.23.248
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.248 are filtered
+
+Nmap scan report for 10.103.23.249
+Host is up (1.9s latency).
+All 1000 scanned ports on 10.103.23.249 are filtered
+
+Nmap scan report for 10.103.23.250
+Host is up (2.9s latency).
+All 1000 scanned ports on 10.103.23.250 are filtered
+
+Nmap scan report for 10.103.23.251
+Host is up (3.0s latency).
+All 1000 scanned ports on 10.103.23.251 are filtered
+
+Nmap scan report for 10.103.23.252
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.23.252 are filtered
+
+Nmap scan report for 10.103.23.253
+Host is up (2.5s latency).
+All 1000 scanned ports on 10.103.23.253 are filtered
+
+Nmap scan report for 10.103.23.254
+Host is up (2.8s latency).
+All 1000 scanned ports on 10.103.23.254 are filtered
+
+Nmap scan report for 10.103.23.255
+Host is up.
+All 1000 scanned ports on 10.103.23.255 are filtered
+
+Nmap done: 1024 IP addresses (1024 hosts up) scanned in 94156.54 seconds
